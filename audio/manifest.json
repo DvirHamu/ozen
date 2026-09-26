@@ -1,0 +1,2042 @@
+{
+  "cat-animals-01": {
+    "normal": "5c09064601a4512c.mp3",
+    "slow": "6f8ae6c2202443a8.mp3"
+  },
+  "cat-animals-02": {
+    "normal": "29179609842196fb.mp3",
+    "slow": "c616e49fe4133ba5.mp3"
+  },
+  "cat-animals-03": {
+    "normal": "fd8411182c025e04.mp3",
+    "slow": "dacef21694f45cbc.mp3"
+  },
+  "cat-animals-04": {
+    "normal": "d478090e22da4fad.mp3",
+    "slow": "041a8f1313bcb8db.mp3"
+  },
+  "cat-animals-05": {
+    "normal": "c32b84ad29c17a36.mp3",
+    "slow": "51586078b3a15c8e.mp3"
+  },
+  "cat-animals-06": {
+    "normal": "33ad46a69dea4e75.mp3",
+    "slow": "ed21c2bc200ee876.mp3"
+  },
+  "cat-animals-07": {
+    "normal": "4dc38152a55cd2e8.mp3",
+    "slow": "af102a2a78d997e7.mp3"
+  },
+  "cat-animals-08": {
+    "normal": "eb7957c7d7199283.mp3",
+    "slow": "3c887f68eaf5f2b9.mp3"
+  },
+  "cat-animals-09": {
+    "normal": "006b50276fd55954.mp3",
+    "slow": "c1e811ce5a372a2e.mp3"
+  },
+  "cat-animals-10": {
+    "normal": "968a71acfd85bac6.mp3",
+    "slow": "c7963327eabdaffd.mp3"
+  },
+  "cat-animals-11": {
+    "normal": "8019a17e7698c063.mp3",
+    "slow": "4f012777eab9a342.mp3"
+  },
+  "cat-animals-12": {
+    "normal": "2248e6ddef7f60c2.mp3",
+    "slow": "252d8497e4b6ab95.mp3"
+  },
+  "cat-animals-13": {
+    "normal": "d2be70ee9ad65079.mp3",
+    "slow": "51743483ea8b80a4.mp3"
+  },
+  "cat-animals-14": {
+    "normal": "962e472ff56b61d6.mp3",
+    "slow": "d3848b780e961460.mp3"
+  },
+  "cat-animals-15": {
+    "normal": "e480c1503c5c81a3.mp3",
+    "slow": "d6e930dd3938a110.mp3"
+  },
+  "cat-animals-16": {
+    "normal": "0c1078fdeec3aeb5.mp3",
+    "slow": "17f0d328d884bbb1.mp3"
+  },
+  "cat-animals-17": {
+    "normal": "79dd35a60f256533.mp3",
+    "slow": "32473fab28ffd777.mp3"
+  },
+  "cat-animals-18": {
+    "normal": "2f09a6da3cbfb505.mp3",
+    "slow": "830e0a4c153d4412.mp3"
+  },
+  "cat-animals-19": {
+    "normal": "4e33c9b1442215bb.mp3",
+    "slow": "0111d63f016146cb.mp3"
+  },
+  "cat-animals-20": {
+    "normal": "be9565c1a0e29ac3.mp3",
+    "slow": "7c7becbfc6449da6.mp3"
+  },
+  "cat-body-01": {
+    "normal": "df6d00adae1cf2af.mp3",
+    "slow": "cea6646eba6f34e9.mp3"
+  },
+  "cat-body-02": {
+    "normal": "6b161f7cdaecd4b5.mp3",
+    "slow": "7dcf8ed013706501.mp3"
+  },
+  "cat-body-03": {
+    "normal": "ce44ecae733011ff.mp3",
+    "slow": "7299655438157509.mp3"
+  },
+  "cat-body-04": {
+    "normal": "751d4dcfceba3435.mp3",
+    "slow": "afb87fa52f3c177e.mp3"
+  },
+  "cat-body-05": {
+    "normal": "464ca0eae94ca053.mp3",
+    "slow": "42c03f6c475cf342.mp3"
+  },
+  "cat-body-06": {
+    "normal": "44862ea0ba956f26.mp3",
+    "slow": "ac1a95cd7d3455b7.mp3"
+  },
+  "cat-body-07": {
+    "normal": "abc37bde5357e559.mp3",
+    "slow": "894681c82328dbe3.mp3"
+  },
+  "cat-body-08": {
+    "normal": "819e0a40784ed505.mp3",
+    "slow": "e2a4a9aa99113b40.mp3"
+  },
+  "cat-body-09": {
+    "normal": "78400281a8073443.mp3",
+    "slow": "cf29730687df6030.mp3"
+  },
+  "cat-body-10": {
+    "normal": "96affeba511e0144.mp3",
+    "slow": "b22ec5a0b7d8f2d1.mp3"
+  },
+  "cat-body-11": {
+    "normal": "50c4d9c12900a204.mp3",
+    "slow": "c87b7d687f25d6ba.mp3"
+  },
+  "cat-body-12": {
+    "normal": "21cbfc9cc121a299.mp3",
+    "slow": "b1c3835162921cae.mp3"
+  },
+  "cat-body-13": {
+    "normal": "bc5a861521e81e95.mp3",
+    "slow": "0cdf59147c9b780e.mp3"
+  },
+  "cat-body-14": {
+    "normal": "92acc4458c5df0c7.mp3",
+    "slow": "e19c563e78d12219.mp3"
+  },
+  "cat-body-15": {
+    "normal": "aa51592a7555a10b.mp3",
+    "slow": "fe3aa4acea6b6366.mp3"
+  },
+  "cat-body-16": {
+    "normal": "81d5222019f58eaf.mp3",
+    "slow": "f4a39fee176fac9e.mp3"
+  },
+  "cat-body-17": {
+    "normal": "0be0cb48e12fd02a.mp3",
+    "slow": "031ebf323e206673.mp3"
+  },
+  "cat-body-18": {
+    "normal": "cb750c8947effb5c.mp3",
+    "slow": "c41eb014fc56b0c6.mp3"
+  },
+  "cat-sports-01": {
+    "normal": "890d879802ae67f6.mp3",
+    "slow": "07c98fe96e0de524.mp3"
+  },
+  "cat-sports-02": {
+    "normal": "14000ee88babfb0b.mp3",
+    "slow": "6a82cff2c29abd4f.mp3"
+  },
+  "cat-sports-03": {
+    "normal": "6150b7660b49c8fc.mp3",
+    "slow": "dc5a725722a6f3c2.mp3"
+  },
+  "cat-sports-04": {
+    "normal": "940ed00be63c39d5.mp3",
+    "slow": "662a02b6944b425f.mp3"
+  },
+  "cat-sports-05": {
+    "normal": "3040abc1d20d14ed.mp3",
+    "slow": "1373d3b73ee5d495.mp3"
+  },
+  "cat-sports-06": {
+    "normal": "6164fa399fe94805.mp3",
+    "slow": "2c23e6a4492099ba.mp3"
+  },
+  "cat-sports-07": {
+    "normal": "ade7505ad20c0e63.mp3",
+    "slow": "f6b148f0fa703921.mp3"
+  },
+  "cat-sports-08": {
+    "normal": "4fba980a16d758c9.mp3",
+    "slow": "60bdddc77c705f75.mp3"
+  },
+  "cat-sports-09": {
+    "normal": "84ea196696db36b9.mp3",
+    "slow": "b038e72e9c311263.mp3"
+  },
+  "cat-sports-10": {
+    "normal": "c57980793a927f57.mp3",
+    "slow": "97c01936a742a052.mp3"
+  },
+  "cat-sports-11": {
+    "normal": "2a04d8ce3b423372.mp3",
+    "slow": "ad001f0e9475723b.mp3"
+  },
+  "cat-sports-12": {
+    "normal": "743e19ed2c110e67.mp3",
+    "slow": "86ec94c1d8ffa23c.mp3"
+  },
+  "cat-sports-13": {
+    "normal": "5df2f6713b013002.mp3",
+    "slow": "d0d337d5b065ce03.mp3"
+  },
+  "cat-sports-14": {
+    "normal": "4053519bdfe99326.mp3",
+    "slow": "0a8073ee72f3a56a.mp3"
+  },
+  "cat-sports-15": {
+    "normal": "1975ad279df02eac.mp3",
+    "slow": "ddd5d7bdafb4266b.mp3"
+  },
+  "cat-sports-16": {
+    "normal": "7099576d13211843.mp3",
+    "slow": "23e63f0ff85d2ee3.mp3"
+  },
+  "cat-sports-17": {
+    "normal": "8d6a284a4a623d10.mp3",
+    "slow": "f0a81bb674b68a75.mp3"
+  },
+  "cat-sports-18": {
+    "normal": "3b00032a04d2d3c4.mp3",
+    "slow": "d4485a5910c60c14.mp3"
+  },
+  "cat-israel-01": {
+    "normal": "a03895e27232c2a5.mp3",
+    "slow": "e288718c12ecd3bd.mp3"
+  },
+  "cat-israel-02": {
+    "normal": "157a07943b99cd8a.mp3",
+    "slow": "76b34cabb0c3e5f0.mp3"
+  },
+  "cat-israel-03": {
+    "normal": "8181b5b7f42a83e5.mp3",
+    "slow": "64e882a5189078d3.mp3"
+  },
+  "cat-israel-04": {
+    "normal": "57ca7c13887aa590.mp3",
+    "slow": "3298e02ae6b6c9e9.mp3"
+  },
+  "cat-israel-05": {
+    "normal": "aeec137d24d3914a.mp3",
+    "slow": "720f0b7a147ef7b2.mp3"
+  },
+  "cat-israel-06": {
+    "normal": "0319bccee5b26d76.mp3",
+    "slow": "7777e6a03f5fa15a.mp3"
+  },
+  "cat-israel-07": {
+    "normal": "0006f2cad8dd3cba.mp3",
+    "slow": "1e386cc3153caa93.mp3"
+  },
+  "cat-israel-08": {
+    "normal": "b0b9909ced0f3cb4.mp3",
+    "slow": "d43f2464ac1e6cbf.mp3"
+  },
+  "cat-israel-09": {
+    "normal": "88c8f94b54a6de25.mp3",
+    "slow": "506cb19869b7f54c.mp3"
+  },
+  "cat-israel-10": {
+    "normal": "5f59bc0d01ab8b9d.mp3",
+    "slow": "222cbbb16152c332.mp3"
+  },
+  "cat-israel-11": {
+    "normal": "15dbb4483f62b0f3.mp3",
+    "slow": "8215b8c9c80a4e20.mp3"
+  },
+  "cat-israel-12": {
+    "normal": "9d6d999badabf802.mp3",
+    "slow": "8097cff3d1e4f998.mp3"
+  },
+  "cat-israel-13": {
+    "normal": "d0d4cea07fcc72c3.mp3",
+    "slow": "be239cf3c2860020.mp3"
+  },
+  "cat-israel-14": {
+    "normal": "0a9add3c153ef172.mp3",
+    "slow": "eca1dac1182d182b.mp3"
+  },
+  "cat-israel-15": {
+    "normal": "d5309073d5f4b92b.mp3",
+    "slow": "81e8c0a49a421000.mp3"
+  },
+  "cat-israel-16": {
+    "normal": "15236fa5aa65f8b7.mp3",
+    "slow": "a6c55e65c0ea5ab4.mp3"
+  },
+  "cat-israel-17": {
+    "normal": "85275767d8bcad82.mp3",
+    "slow": "fc0a1ca78ac27655.mp3"
+  },
+  "cat-israel-18": {
+    "normal": "599fc560c785abde.mp3",
+    "slow": "1c3c104858a76d78.mp3"
+  },
+  "cat-verbs-01": {
+    "normal": "7a52978d438f67a5.mp3",
+    "slow": "d5c4388da01adbf4.mp3"
+  },
+  "cat-verbs-02": {
+    "normal": "2aed96418587cc6d.mp3",
+    "slow": "cb68f1a5e33bf2ff.mp3"
+  },
+  "cat-verbs-03": {
+    "normal": "63fe0bf608b7cb7f.mp3",
+    "slow": "f87bb4a84b930a28.mp3"
+  },
+  "cat-verbs-04": {
+    "normal": "75ff102129e510e5.mp3",
+    "slow": "b09ba5a17c62390c.mp3"
+  },
+  "cat-verbs-05": {
+    "normal": "27701bf0c76ffd45.mp3",
+    "slow": "7c632bc35d98b653.mp3"
+  },
+  "cat-verbs-06": {
+    "normal": "25d7b9828e034e80.mp3",
+    "slow": "88b6d657314c2282.mp3"
+  },
+  "cat-verbs-07": {
+    "normal": "b537e828b02c2cd0.mp3",
+    "slow": "49fdfa3359f1ff9a.mp3"
+  },
+  "cat-verbs-08": {
+    "normal": "c6afa89bc95dd113.mp3",
+    "slow": "ad8b6b8f2448beb0.mp3"
+  },
+  "cat-verbs-09": {
+    "normal": "1745a49ef73c6e0c.mp3",
+    "slow": "7067e9941bc6d9ae.mp3"
+  },
+  "cat-verbs-10": {
+    "normal": "c9ae198c24e298ca.mp3",
+    "slow": "903b9aa0bdced111.mp3"
+  },
+  "cat-verbs-11": {
+    "normal": "8ddbad6152ad68a0.mp3",
+    "slow": "7969ff2253d6f381.mp3"
+  },
+  "cat-verbs-12": {
+    "normal": "149f6b335f502239.mp3",
+    "slow": "6f79791d894ba35c.mp3"
+  },
+  "cat-verbs-13": {
+    "normal": "8a0acf8b9f3ec734.mp3",
+    "slow": "587e49f403ff9121.mp3"
+  },
+  "cat-verbs-14": {
+    "normal": "b5bee5544573818b.mp3",
+    "slow": "9b0f71ed0da449a3.mp3"
+  },
+  "cat-verbs-15": {
+    "normal": "cdff9c00cb139df3.mp3",
+    "slow": "50e10aad67010f5a.mp3"
+  },
+  "cat-verbs-16": {
+    "normal": "ce91a084a164c050.mp3",
+    "slow": "c09d3eaf7d8ffe3f.mp3"
+  },
+  "cat-verbs-17": {
+    "normal": "a482de7557d42082.mp3",
+    "slow": "38b0a5df43a3749f.mp3"
+  },
+  "cat-verbs-18": {
+    "normal": "02273114d8900c99.mp3",
+    "slow": "0f612617e1580f20.mp3"
+  },
+  "cat-verbs-19": {
+    "normal": "9548ffcae35721ab.mp3",
+    "slow": "9c9e45a506a278ce.mp3"
+  },
+  "cat-verbs-20": {
+    "normal": "1c391597d9b05732.mp3",
+    "slow": "d34c44bffe295907.mp3"
+  },
+  "cat-food-01": {
+    "normal": "72c08f3d2d0cec53.mp3",
+    "slow": "07513bc97f277b36.mp3"
+  },
+  "cat-food-02": {
+    "normal": "fb901ad1a489fba8.mp3",
+    "slow": "f652d0b8373f5ebf.mp3"
+  },
+  "cat-food-03": {
+    "normal": "a98d4430d2b3d1db.mp3",
+    "slow": "b61faf969e28d85e.mp3"
+  },
+  "cat-food-04": {
+    "normal": "ae65b3bd4ae62e7d.mp3",
+    "slow": "45f3549c5608f0ca.mp3"
+  },
+  "cat-food-05": {
+    "normal": "39737eb35c43f738.mp3",
+    "slow": "b54efe9adc9d52f7.mp3"
+  },
+  "cat-food-06": {
+    "normal": "9c21fdccd9f282f0.mp3",
+    "slow": "db459b51aaeec58c.mp3"
+  },
+  "cat-food-07": {
+    "normal": "9e560d6110e95584.mp3",
+    "slow": "36252adb1febcbea.mp3"
+  },
+  "cat-food-08": {
+    "normal": "3d06b61905f7370e.mp3",
+    "slow": "8c304eff6b48d191.mp3"
+  },
+  "cat-food-09": {
+    "normal": "07d8b54cea83a2cb.mp3",
+    "slow": "e24ac3d9313b7493.mp3"
+  },
+  "cat-food-10": {
+    "normal": "c903f38d9e67c853.mp3",
+    "slow": "2ecf41fd66f49136.mp3"
+  },
+  "cat-food-11": {
+    "normal": "e87da572a2497732.mp3",
+    "slow": "e079e5f705ae05e8.mp3"
+  },
+  "cat-food-12": {
+    "normal": "9ccfdaeb2104c901.mp3",
+    "slow": "92e6f4b0108e6f5d.mp3"
+  },
+  "cat-food-13": {
+    "normal": "45655941774aaba1.mp3",
+    "slow": "9b6a99ef276a4b4c.mp3"
+  },
+  "cat-food-14": {
+    "normal": "8332f33ee826947e.mp3",
+    "slow": "5ac264832ed65fb5.mp3"
+  },
+  "cat-food-15": {
+    "normal": "ff597cc5adb443c9.mp3",
+    "slow": "b732fcd127938d29.mp3"
+  },
+  "cat-food-16": {
+    "normal": "9a70be2506774251.mp3",
+    "slow": "136eb78809809e7c.mp3"
+  },
+  "cat-food-17": {
+    "normal": "006e9aed8f1e4a40.mp3",
+    "slow": "2c357648a567c791.mp3"
+  },
+  "cat-food-18": {
+    "normal": "8c5f00585c07d4b7.mp3",
+    "slow": "1018c334a9c8dcf0.mp3"
+  },
+  "base-L1-001": {
+    "normal": "326e1a3f671a4fcd.mp3",
+    "slow": "5e8ad2928bbed3b6.mp3"
+  },
+  "base-L1-002": {
+    "normal": "9558c7258c782d4b.mp3",
+    "slow": "f45218c192c80428.mp3"
+  },
+  "base-L1-003": {
+    "normal": "155a45b192dc80cb.mp3",
+    "slow": "4b7a901ab978dd6b.mp3"
+  },
+  "base-L1-004": {
+    "normal": "c0a64857b7b7532f.mp3",
+    "slow": "750ae0fcffc62578.mp3"
+  },
+  "base-L1-005": {
+    "normal": "33ba8840233784ac.mp3",
+    "slow": "955d70cb8a909598.mp3"
+  },
+  "base-L1-006": {
+    "normal": "b3b0235685c35b8d.mp3",
+    "slow": "97f017f583c88318.mp3"
+  },
+  "base-L1-007": {
+    "normal": "fbaf4baffa203ec4.mp3",
+    "slow": "3acbbff92850ba8b.mp3"
+  },
+  "base-L1-008": {
+    "normal": "e05b346edc9aa2e9.mp3",
+    "slow": "f5944ba1222ecfe7.mp3"
+  },
+  "base-L1-009": {
+    "normal": "9b1bd92ed738696f.mp3",
+    "slow": "3838772dbddee335.mp3"
+  },
+  "base-L1-010": {
+    "normal": "67f634332c658cfc.mp3",
+    "slow": "192c77751c2904a2.mp3"
+  },
+  "base-L1-011": {
+    "normal": "5d40db570e976e0d.mp3",
+    "slow": "86e59db3e84b28f4.mp3"
+  },
+  "base-L1-012": {
+    "normal": "cba3aaa99fea27cc.mp3",
+    "slow": "d465795fd6fbf662.mp3"
+  },
+  "base-L1-013": {
+    "normal": "c860b6ce9890c6a9.mp3",
+    "slow": "249fbd341eeb55cc.mp3"
+  },
+  "base-L1-014": {
+    "normal": "19baef6716896187.mp3",
+    "slow": "655915bc20d82ae9.mp3"
+  },
+  "base-L1-015": {
+    "normal": "086373c6d66c51fd.mp3",
+    "slow": "78294ed76db0a583.mp3"
+  },
+  "base-L1-016": {
+    "normal": "5f55306e7586af4f.mp3",
+    "slow": "96d39dc2c1fe8beb.mp3"
+  },
+  "base-L1-017": {
+    "normal": "983084a3e28c1483.mp3",
+    "slow": "da14581cf7ce1802.mp3"
+  },
+  "base-L1-018": {
+    "normal": "0ae241823d8f6f68.mp3",
+    "slow": "22e3148e40397095.mp3"
+  },
+  "base-L1-019": {
+    "normal": "45c4c30a2f056ce6.mp3",
+    "slow": "d9f264adf3b3e008.mp3"
+  },
+  "base-L1-020": {
+    "normal": "c455299c348f9952.mp3",
+    "slow": "c198884897b50c81.mp3"
+  },
+  "base-L1-031": {
+    "normal": "60790a85b1637ef9.mp3",
+    "slow": "de623414fd8e67ce.mp3"
+  },
+  "base-L1-032": {
+    "normal": "801b06365aab3680.mp3",
+    "slow": "248bcb4430f32541.mp3"
+  },
+  "base-L1-033": {
+    "normal": "b48311078e88a628.mp3",
+    "slow": "6ce0ce5b62ff734f.mp3"
+  },
+  "base-L1-034": {
+    "normal": "87ecd01c209678b7.mp3",
+    "slow": "c88c02384f13ef4f.mp3"
+  },
+  "base-L1-035": {
+    "normal": "6edf4b49e1030de9.mp3",
+    "slow": "3610d58a13214536.mp3"
+  },
+  "base-L1-036": {
+    "normal": "22ca56e1d8d8f9dc.mp3",
+    "slow": "6bce01feb7b4e7ec.mp3"
+  },
+  "base-L1-037": {
+    "normal": "e148f3f40ec2bd5f.mp3",
+    "slow": "b83e97939edd326b.mp3"
+  },
+  "base-L1-038": {
+    "normal": "bc0272c8c765f42a.mp3",
+    "slow": "3e2ce2b55b81c8ff.mp3"
+  },
+  "base-L1-039": {
+    "normal": "f90a142889efee53.mp3",
+    "slow": "ef65f2b8c7196e30.mp3"
+  },
+  "base-L1-040": {
+    "normal": "687fa5168254def1.mp3",
+    "slow": "dba1b48d9127ef0c.mp3"
+  },
+  "base-L1-041": {
+    "normal": "3556a8ed1fea933e.mp3",
+    "slow": "f73c164ec3ed3280.mp3"
+  },
+  "base-L1-042": {
+    "normal": "4042d5aefc96190e.mp3",
+    "slow": "33a30151534d8514.mp3"
+  },
+  "base-L1-043": {
+    "normal": "5ea515232a9520be.mp3",
+    "slow": "75407b93eba254dc.mp3"
+  },
+  "base-L1-044": {
+    "normal": "713b78f480005497.mp3",
+    "slow": "a7de4b58e07fd4a6.mp3"
+  },
+  "base-L1-045": {
+    "normal": "df663a1c0d5420c8.mp3",
+    "slow": "42a77b0b6e802646.mp3"
+  },
+  "base-L1-046": {
+    "normal": "f61ea022878ccac2.mp3",
+    "slow": "3d63360c3770483f.mp3"
+  },
+  "base-L1-047": {
+    "normal": "fbd7518ecd41b793.mp3",
+    "slow": "16af30dd485e9a65.mp3"
+  },
+  "base-L1-048": {
+    "normal": "2da07d656999f7b4.mp3",
+    "slow": "25f3fd519173fac9.mp3"
+  },
+  "base-L1-049": {
+    "normal": "603c176e3c5adbae.mp3",
+    "slow": "0f666520af58c3bb.mp3"
+  },
+  "base-L1-050": {
+    "normal": "9036c0100641ad9f.mp3",
+    "slow": "11e06a5a38d28d8e.mp3"
+  },
+  "base-L1-051": {
+    "normal": "186a756d6bfbdbe1.mp3",
+    "slow": "2da295b172dcb75b.mp3"
+  },
+  "base-L1-052": {
+    "normal": "b244ec1e914a62bb.mp3",
+    "slow": "3ff6c2909cd29b3c.mp3"
+  },
+  "base-L1-053": {
+    "normal": "590f1b218d353b88.mp3",
+    "slow": "b757c695742eeb61.mp3"
+  },
+  "base-L1-054": {
+    "normal": "77a3457f920b59c5.mp3",
+    "slow": "3020352892d64854.mp3"
+  },
+  "base-L1-055": {
+    "normal": "af573934316e7a9b.mp3",
+    "slow": "74453d7d13db81ee.mp3"
+  },
+  "base-L1-056": {
+    "normal": "7cbcc6ba378e3490.mp3",
+    "slow": "8dfb7eadca98ae89.mp3"
+  },
+  "base-L1-057": {
+    "normal": "e7bcc8defbdddf22.mp3",
+    "slow": "ff7b4c93ca1f4d8c.mp3"
+  },
+  "base-L1-058": {
+    "normal": "798c251bc3e00a36.mp3",
+    "slow": "cc5dd2f061ba650b.mp3"
+  },
+  "base-L1-059": {
+    "normal": "c95e74668399f823.mp3",
+    "slow": "c5fb15f1fee96c0e.mp3"
+  },
+  "base-L1-060": {
+    "normal": "6f023d6c9f8c740c.mp3",
+    "slow": "1dd39d3d54456e62.mp3"
+  },
+  "base-L2-001": {
+    "normal": "e93ea9db3cb3fe03.mp3",
+    "slow": "3d321faab540aa88.mp3"
+  },
+  "base-L2-002": {
+    "normal": "020be7e9695e7d6d.mp3",
+    "slow": "c526bed328992b46.mp3"
+  },
+  "base-L2-003": {
+    "normal": "a6fd7fc1aaf37f0c.mp3",
+    "slow": "92357288ce8eaccd.mp3"
+  },
+  "base-L2-004": {
+    "normal": "d914cb81dbc5e855.mp3",
+    "slow": "53a9cbd759bb77d2.mp3"
+  },
+  "base-L2-005": {
+    "normal": "1213b3efb35c5774.mp3",
+    "slow": "aa6e0e89c741bfb5.mp3"
+  },
+  "base-L2-006": {
+    "normal": "70ea3df42ad7bbf9.mp3",
+    "slow": "0b68fc5b365a49c6.mp3"
+  },
+  "base-L2-007": {
+    "normal": "328adc5bc6b5e504.mp3",
+    "slow": "7ce7c722cd47a8e0.mp3"
+  },
+  "base-L2-008": {
+    "normal": "1e4749f19040ab4c.mp3",
+    "slow": "155573c1018c47d3.mp3"
+  },
+  "base-L2-009": {
+    "normal": "380d3d4ee11c0bcf.mp3",
+    "slow": "78ef07df93c36954.mp3"
+  },
+  "base-L2-010": {
+    "normal": "9fca3815b559d90e.mp3",
+    "slow": "87fa0c36d06a489f.mp3"
+  },
+  "base-L2-011": {
+    "normal": "d7e08fac53ce7fc6.mp3",
+    "slow": "c7e997a7ece04923.mp3"
+  },
+  "base-L2-012": {
+    "normal": "ff659b52ac8384ad.mp3",
+    "slow": "7d02a9b31205ec71.mp3"
+  },
+  "base-L2-013": {
+    "normal": "2680d4373a92392c.mp3",
+    "slow": "101309c4aa966b7c.mp3"
+  },
+  "base-L2-014": {
+    "normal": "92fd0a215b83ccbd.mp3",
+    "slow": "7c562e46f69de116.mp3"
+  },
+  "base-L2-015": {
+    "normal": "31666279667047b2.mp3",
+    "slow": "fa869a060297e7e9.mp3"
+  },
+  "base-L2-016": {
+    "normal": "ae00888360ba7403.mp3",
+    "slow": "973a16891716ef1b.mp3"
+  },
+  "base-L2-017": {
+    "normal": "7cb72e4cd846bced.mp3",
+    "slow": "065d354883e29ddd.mp3"
+  },
+  "base-L2-018": {
+    "normal": "716d1e0516dc0b6a.mp3",
+    "slow": "584a2eb254061972.mp3"
+  },
+  "base-L2-019": {
+    "normal": "b86e8aaca4f41955.mp3",
+    "slow": "c4c8b96b0880108a.mp3"
+  },
+  "base-L2-020": {
+    "normal": "b269a52fbbe513db.mp3",
+    "slow": "ead2ee21eb425de3.mp3"
+  },
+  "base-L2-021": {
+    "normal": "8aefe3eb541bed53.mp3",
+    "slow": "40fb93f08197de18.mp3"
+  },
+  "base-L2-022": {
+    "normal": "b34befd5d2af34a1.mp3",
+    "slow": "521bc072c9e16563.mp3"
+  },
+  "base-L2-023": {
+    "normal": "b4e18cf86cf586fc.mp3",
+    "slow": "afd581fd9f4c23d1.mp3"
+  },
+  "base-L2-024": {
+    "normal": "50f9b146280f6bec.mp3",
+    "slow": "5606337b064f2fcc.mp3"
+  },
+  "base-L2-025": {
+    "normal": "289112aaa33462a1.mp3",
+    "slow": "aa8028836095f5b5.mp3"
+  },
+  "base-L2-026": {
+    "normal": "ebb01f8691e1e4da.mp3",
+    "slow": "37d140485b8f780a.mp3"
+  },
+  "base-L2-027": {
+    "normal": "f988e625a36e6b7a.mp3",
+    "slow": "3cfa1f0b97321fd2.mp3"
+  },
+  "base-L2-028": {
+    "normal": "a7c12eee0425dc4c.mp3",
+    "slow": "d792054274aeef89.mp3"
+  },
+  "base-L2-029": {
+    "normal": "a2a410bfb1e41349.mp3",
+    "slow": "c8d896a1556b0dcb.mp3"
+  },
+  "base-L2-030": {
+    "normal": "3ef897f7a08cbac4.mp3",
+    "slow": "0ee5d841bd90fe43.mp3"
+  },
+  "base-L3-001": {
+    "normal": "d4ff93a45e7135cd.mp3",
+    "slow": "6861d988cdfc0b60.mp3"
+  },
+  "base-L3-002": {
+    "normal": "f18570dd75158235.mp3",
+    "slow": "7b830470eaabe856.mp3"
+  },
+  "base-L3-003": {
+    "normal": "8216f0b6ad4042cf.mp3",
+    "slow": "f99be1421d03bbee.mp3"
+  },
+  "base-L3-004": {
+    "normal": "fb9962a2a62725a1.mp3",
+    "slow": "774793e6670d142e.mp3"
+  },
+  "base-L3-005": {
+    "normal": "40860b2ef7b22aeb.mp3",
+    "slow": "9fe8230f1f2bfcc4.mp3"
+  },
+  "base-L3-006": {
+    "normal": "d2e2ff9109d23175.mp3",
+    "slow": "b14659af38cdeb3a.mp3"
+  },
+  "base-L3-007": {
+    "normal": "188cbebb9aa675a1.mp3",
+    "slow": "381c5bf78c946e21.mp3"
+  },
+  "base-L3-008": {
+    "normal": "8ccd8c14f278ee57.mp3",
+    "slow": "916975a17219a0f7.mp3"
+  },
+  "base-L3-009": {
+    "normal": "0de71bfe5329f488.mp3",
+    "slow": "f444855f06bd3c55.mp3"
+  },
+  "base-L3-010": {
+    "normal": "8749beb2dbaf200b.mp3",
+    "slow": "18766b0dfbe5e7b3.mp3"
+  },
+  "base-L3-011": {
+    "normal": "4448300a5a766d65.mp3",
+    "slow": "9912c36affda4ce9.mp3"
+  },
+  "base-L3-012": {
+    "normal": "e87e6853fd510a6c.mp3",
+    "slow": "185c1fb2281682e9.mp3"
+  },
+  "base-L3-013": {
+    "normal": "851473312f96533d.mp3",
+    "slow": "e2d456c12d741bee.mp3"
+  },
+  "base-L3-014": {
+    "normal": "a46bd7f4d7a9d42a.mp3",
+    "slow": "08ee36102f79feb0.mp3"
+  },
+  "base-L3-015": {
+    "normal": "5ae4af195c0bdc3d.mp3",
+    "slow": "5d212eea5dc2e6ff.mp3"
+  },
+  "base-L3-016": {
+    "normal": "43d1568b9769443c.mp3",
+    "slow": "9f2d885970cd891a.mp3"
+  },
+  "base-L3-017": {
+    "normal": "9000a86d05836eae.mp3",
+    "slow": "79d35c2b51eda0bc.mp3"
+  },
+  "base-L3-018": {
+    "normal": "2deba9c98af91b27.mp3",
+    "slow": "f327d3ccf6d7e347.mp3"
+  },
+  "base-L3-019": {
+    "normal": "059556d5951dc401.mp3",
+    "slow": "8b17a1309ed301b4.mp3"
+  },
+  "base-L3-020": {
+    "normal": "c2fcb07300a65ef8.mp3",
+    "slow": "8555adb54cded78a.mp3"
+  },
+  "base-L3-021": {
+    "normal": "fde8cdefc4368c3d.mp3",
+    "slow": "88599556b4f2bf23.mp3"
+  },
+  "base-L3-022": {
+    "normal": "58a017f75f42ad5e.mp3",
+    "slow": "342e2da0457e4e48.mp3"
+  },
+  "base-L3-023": {
+    "normal": "bde741cbe95d67c9.mp3",
+    "slow": "d3830bdcdd5c80bd.mp3"
+  },
+  "base-L3-024": {
+    "normal": "c198a2e7a8514bf8.mp3",
+    "slow": "74d82c7497bcf951.mp3"
+  },
+  "base-L3-025": {
+    "normal": "13944b9a838ca66c.mp3",
+    "slow": "3bd1f397ca645d19.mp3"
+  },
+  "s1p1-01": {
+    "normal": "30510340a2e6e306.mp3",
+    "slow": "dc06d342833caad1.mp3"
+  },
+  "s1p1-02": {
+    "normal": "59f5dfbcfff8d6be.mp3",
+    "slow": "204229ff5c9237e9.mp3"
+  },
+  "s1p1-03": {
+    "normal": "a84deb4141478275.mp3",
+    "slow": "699a531d95212339.mp3"
+  },
+  "s1p1-04": {
+    "normal": "347cd90f5f387b3a.mp3",
+    "slow": "fdf8bb46f4eb3d7a.mp3"
+  },
+  "s1p1-05": {
+    "normal": "66cb02257b458b01.mp3",
+    "slow": "0b77bdc3a677682e.mp3"
+  },
+  "s1p2-01": {
+    "normal": "8ac5f3efbed23be4.mp3",
+    "slow": "62b3d84efe0d0b17.mp3"
+  },
+  "s1p2-02": {
+    "normal": "fb29aa19ea2b924a.mp3",
+    "slow": "0e87947f85eeb4ee.mp3"
+  },
+  "s1p2-03": {
+    "normal": "d800f579cd1f0fd0.mp3",
+    "slow": "7e6ce111232a37ab.mp3"
+  },
+  "s1p2-04": {
+    "normal": "008c992cec8ccbbd.mp3",
+    "slow": "343d6ea423c0d73a.mp3"
+  },
+  "s1p3-01": {
+    "normal": "9eed8c951db1488c.mp3",
+    "slow": "a177dce9b8b145fb.mp3"
+  },
+  "s1p3-02": {
+    "normal": "751780982b4b9669.mp3",
+    "slow": "bf18f872da6056e2.mp3"
+  },
+  "s1p3-03": {
+    "normal": "e6537afc6dc777f6.mp3",
+    "slow": "6e3405c4157741ae.mp3"
+  },
+  "s1p3-04": {
+    "normal": "ac21d886f94faf0c.mp3",
+    "slow": "1bbcaf7757b85fbf.mp3"
+  },
+  "s1p3-05": {
+    "normal": "dbe8f1e9f27443f1.mp3",
+    "slow": "983dc30e21a0425b.mp3"
+  },
+  "s1p4-01": {
+    "normal": "3d1399840a0cfe27.mp3",
+    "slow": "d5da1e916b4ad1ca.mp3"
+  },
+  "s1p4-02": {
+    "normal": "f0c333b3c4a7a26d.mp3",
+    "slow": "436e3b978ef72fda.mp3"
+  },
+  "s1p4-03": {
+    "normal": "2628078fb82d7b7f.mp3",
+    "slow": "fdf1f33af262cf58.mp3"
+  },
+  "s1p4-04": {
+    "normal": "de6d7d7ba617b40b.mp3",
+    "slow": "46efd7cdf931b7bc.mp3"
+  },
+  "s1p4-05": {
+    "normal": "ef2ec2b5c2e3a6ad.mp3",
+    "slow": "daa7cc9f85619442.mp3"
+  },
+  "s1p5-01": {
+    "normal": "83a27f0f3873a9e2.mp3",
+    "slow": "185c1088633cde23.mp3"
+  },
+  "s1p5-02": {
+    "normal": "c0bc435d441704c5.mp3",
+    "slow": "4abe865aa96d23a3.mp3"
+  },
+  "s1p5-03": {
+    "normal": "2a623c8f0ca60a21.mp3",
+    "slow": "f7aa304d5c60204e.mp3"
+  },
+  "s1p5-04": {
+    "normal": "a3843918293eb604.mp3",
+    "slow": "188b14433a0adae3.mp3"
+  },
+  "s2p1-01": {
+    "normal": "4d9a336f76e012b4.mp3",
+    "slow": "4f32078869fe491c.mp3"
+  },
+  "s2p1-02": {
+    "normal": "b4fa3a272ece8182.mp3",
+    "slow": "53537900ac2bd4d9.mp3"
+  },
+  "s2p1-03": {
+    "normal": "33297b0568388c77.mp3",
+    "slow": "4fb6a14b76f6c59e.mp3"
+  },
+  "s2p1-04": {
+    "normal": "2f9d201ec8c101a0.mp3",
+    "slow": "0e6a243639058264.mp3"
+  },
+  "s2p1-05": {
+    "normal": "5d221bcbc867c829.mp3",
+    "slow": "a93b43f8e4084203.mp3"
+  },
+  "s2p2-01": {
+    "normal": "51aa0cf5d064b5c2.mp3",
+    "slow": "1f671161698370c2.mp3"
+  },
+  "s2p2-02": {
+    "normal": "17966cfc478d71a5.mp3",
+    "slow": "6a20bf6ea1ca301c.mp3"
+  },
+  "s2p2-03": {
+    "normal": "23b690ce966c4421.mp3",
+    "slow": "76d9e147ac1a459d.mp3"
+  },
+  "s2p2-04": {
+    "normal": "90e540b12153bf7d.mp3",
+    "slow": "caf6e6c24dfc5eb2.mp3"
+  },
+  "s2p2-05": {
+    "normal": "37fa9e69613341eb.mp3",
+    "slow": "0708c8ab9183ef7f.mp3"
+  },
+  "s2p3-01": {
+    "normal": "a3a26149f47af89d.mp3",
+    "slow": "a592cbe5de58f639.mp3"
+  },
+  "s2p3-02": {
+    "normal": "9f70701f846b045c.mp3",
+    "slow": "9975397294ec34eb.mp3"
+  },
+  "s2p3-03": {
+    "normal": "daf12c51f85d189c.mp3",
+    "slow": "4a0e24f12b18ba63.mp3"
+  },
+  "s2p3-04": {
+    "normal": "4fca40b2cc43fcf2.mp3",
+    "slow": "b1a6824edbc51b18.mp3"
+  },
+  "s2p3-05": {
+    "normal": "d4d2ea197f230a75.mp3",
+    "slow": "a2366cfaeeece610.mp3"
+  },
+  "s2p4-01": {
+    "normal": "0749a3631332c09d.mp3",
+    "slow": "c873b784462faf40.mp3"
+  },
+  "s2p4-02": {
+    "normal": "4235a9878aecf23c.mp3",
+    "slow": "238919add7b26e6a.mp3"
+  },
+  "s2p4-03": {
+    "normal": "62dc6d432a9987f7.mp3",
+    "slow": "7a5ed74d5b89c4ec.mp3"
+  },
+  "s2p4-04": {
+    "normal": "19d1b811d23de235.mp3",
+    "slow": "9197c9f0d6e67ad3.mp3"
+  },
+  "s2p4-05": {
+    "normal": "8860a075498c5740.mp3",
+    "slow": "12798a085aaf9634.mp3"
+  },
+  "s2p5-01": {
+    "normal": "1071a7a7394cb112.mp3",
+    "slow": "847ceebd67da5c75.mp3"
+  },
+  "s2p5-02": {
+    "normal": "2ddfd3960b51e7a8.mp3",
+    "slow": "3304987e1224b474.mp3"
+  },
+  "s2p5-03": {
+    "normal": "651e3fc78695a0f2.mp3",
+    "slow": "f3bc6f5a850d5795.mp3"
+  },
+  "s2p5-04": {
+    "normal": "ae6a2ea1b96aed3a.mp3",
+    "slow": "d1e7b631667c1706.mp3"
+  },
+  "s2p5-05": {
+    "normal": "578f9f7019fc1612.mp3",
+    "slow": "f8e63a658bb44649.mp3"
+  },
+  "s3p1-01": {
+    "normal": "7239338ac30dad09.mp3",
+    "slow": "2d24a7bb5b8585be.mp3"
+  },
+  "s3p1-02": {
+    "normal": "46f2145866ef019a.mp3",
+    "slow": "4d8860881248d6d2.mp3"
+  },
+  "s3p1-03": {
+    "normal": "aec8d91cdbebb248.mp3",
+    "slow": "1d08cde56dd38517.mp3"
+  },
+  "s3p1-04": {
+    "normal": "96f840b86233d7af.mp3",
+    "slow": "1219a471ac307ed0.mp3"
+  },
+  "s3p1-05": {
+    "normal": "a7f3acc766f18e44.mp3",
+    "slow": "2715c2dd5c3ebc8c.mp3"
+  },
+  "s3p2-01": {
+    "normal": "4a6822d2441203c7.mp3",
+    "slow": "395101780936add6.mp3"
+  },
+  "s3p2-02": {
+    "normal": "3f019db64612c6c5.mp3",
+    "slow": "d673b2cea9f1c5d3.mp3"
+  },
+  "s3p2-03": {
+    "normal": "cfda015c3e2f73c4.mp3",
+    "slow": "7b1fc828babe72e6.mp3"
+  },
+  "s3p2-04": {
+    "normal": "8a5493e1356ef282.mp3",
+    "slow": "212fa248165e4a7b.mp3"
+  },
+  "s3p2-05": {
+    "normal": "4a68333bcca61475.mp3",
+    "slow": "c2437a1c34b7744b.mp3"
+  },
+  "s3p3-01": {
+    "normal": "092aeccc41da3283.mp3",
+    "slow": "9c2fca36525b132a.mp3"
+  },
+  "s3p3-02": {
+    "normal": "f73c1a781e651a29.mp3",
+    "slow": "c6a7231bca67355a.mp3"
+  },
+  "s3p3-03": {
+    "normal": "00e8adbb58117afa.mp3",
+    "slow": "f7a2e50215b39a90.mp3"
+  },
+  "s3p3-04": {
+    "normal": "db372c5069764bbb.mp3",
+    "slow": "7fcda0b2959f15e3.mp3"
+  },
+  "s3p3-05": {
+    "normal": "7f494d2ace32e33c.mp3",
+    "slow": "09b5b13c311d2cec.mp3"
+  },
+  "s3p4-01": {
+    "normal": "b93291506d1d2c2b.mp3",
+    "slow": "30426252300f2927.mp3"
+  },
+  "s3p4-02": {
+    "normal": "2c5723c842e37fe4.mp3",
+    "slow": "2a1ca0c810d488fe.mp3"
+  },
+  "s3p4-03": {
+    "normal": "180fa04f297ac649.mp3",
+    "slow": "3fbd8e6350e4f04a.mp3"
+  },
+  "s3p4-04": {
+    "normal": "c53334a9c8642cdd.mp3",
+    "slow": "bdfc0bf2f14537ed.mp3"
+  },
+  "s3p5-01": {
+    "normal": "73ea425572ce652b.mp3",
+    "slow": "5493e918f648b49f.mp3"
+  },
+  "s3p5-02": {
+    "normal": "67ac02496f7e88ec.mp3",
+    "slow": "bcc044e3a37af9b0.mp3"
+  },
+  "s3p5-03": {
+    "normal": "ca0e04af0f415b1f.mp3",
+    "slow": "d50fe693bedbbd8c.mp3"
+  },
+  "s3p5-04": {
+    "normal": "312748a0756240b9.mp3",
+    "slow": "9ea15bff84e66177.mp3"
+  },
+  "s3p5-05": {
+    "normal": "2a207c156990d08c.mp3",
+    "slow": "046ca4233cc1ad39.mp3"
+  },
+  "s4p1-01": {
+    "normal": "0e9129b4a3a4a7ff.mp3",
+    "slow": "e8b2833ff9098a72.mp3"
+  },
+  "s4p1-02": {
+    "normal": "935a847e1a520ff1.mp3",
+    "slow": "42fa1c952794d7f5.mp3"
+  },
+  "s4p1-03": {
+    "normal": "2491fdafdf730a5e.mp3",
+    "slow": "cbefcd067cd248b7.mp3"
+  },
+  "s4p1-04": {
+    "normal": "ffa09343c1900ad9.mp3",
+    "slow": "a4ed20069d2868c9.mp3"
+  },
+  "s4p1-05": {
+    "normal": "6461659d7afc54fc.mp3",
+    "slow": "2a52858f49fddfba.mp3"
+  },
+  "s4p2-01": {
+    "normal": "65a096f00dfe40d2.mp3",
+    "slow": "32c0611b8475c6d5.mp3"
+  },
+  "s4p2-02": {
+    "normal": "f077d74a4bc32c08.mp3",
+    "slow": "52068f3d1661207b.mp3"
+  },
+  "s4p2-03": {
+    "normal": "1963f0e1abd0056d.mp3",
+    "slow": "868b3e2d6d8d0f57.mp3"
+  },
+  "s4p2-04": {
+    "normal": "e8be34c9825063c2.mp3",
+    "slow": "03ef3af8b5123d9b.mp3"
+  },
+  "s4p2-05": {
+    "normal": "5f82fe08dae97999.mp3",
+    "slow": "6d2cb77be6f0af6b.mp3"
+  },
+  "s4p3-01": {
+    "normal": "a3a4f955f600db14.mp3",
+    "slow": "5220124e62ece7ce.mp3"
+  },
+  "s4p3-02": {
+    "normal": "9f074fa4f1d044cd.mp3",
+    "slow": "fc7e8df1081247fd.mp3"
+  },
+  "s4p3-03": {
+    "normal": "5b1c56d92b0e9a21.mp3",
+    "slow": "4add40e6917ac10b.mp3"
+  },
+  "s4p3-04": {
+    "normal": "003cf1398312e509.mp3",
+    "slow": "574f850968402933.mp3"
+  },
+  "s4p3-05": {
+    "normal": "cb000a99b4804f0c.mp3",
+    "slow": "9b578e39bc802b16.mp3"
+  },
+  "s4p3-06": {
+    "normal": "1ae2a43b8d145f18.mp3",
+    "slow": "5b2ba219d5ee7746.mp3"
+  },
+  "s4p4-01": {
+    "normal": "92a5804610f6da17.mp3",
+    "slow": "a0e8841d223da5de.mp3"
+  },
+  "s4p4-02": {
+    "normal": "e13623000f89b58a.mp3",
+    "slow": "a89bd9051c5d0ed9.mp3"
+  },
+  "s4p4-03": {
+    "normal": "b844aa3826922f8a.mp3",
+    "slow": "02b4613e63cf9b64.mp3"
+  },
+  "s4p4-04": {
+    "normal": "8d3cb17115a9e9e5.mp3",
+    "slow": "d9c6aacaba55b2fb.mp3"
+  },
+  "s4p4-05": {
+    "normal": "614657010ced1bc3.mp3",
+    "slow": "89a8dae984e3c7ec.mp3"
+  },
+  "s4p4-06": {
+    "normal": "7bd12a8add86b659.mp3",
+    "slow": "0189e20f84b8f391.mp3"
+  },
+  "s4p5-01": {
+    "normal": "09f295b61b823251.mp3",
+    "slow": "1984f63392caca0d.mp3"
+  },
+  "s4p5-02": {
+    "normal": "b08de263dba3e945.mp3",
+    "slow": "9512e906c87ffdba.mp3"
+  },
+  "s4p5-03": {
+    "normal": "e5bbd3e355ece627.mp3",
+    "slow": "fb637087ce6309bf.mp3"
+  },
+  "s4p5-04": {
+    "normal": "15893bb53c729820.mp3",
+    "slow": "cd3901d71c58ba78.mp3"
+  },
+  "s4p5-05": {
+    "normal": "8c02fef75bafafe1.mp3",
+    "slow": "c75db5130d130994.mp3"
+  },
+  "s4p5-06": {
+    "normal": "af03240c87894a80.mp3",
+    "slow": "1bdc2f54eb34258d.mp3"
+  },
+  "s5p1-01": {
+    "normal": "270ccb8af39fecbc.mp3",
+    "slow": "f081b027177595c9.mp3"
+  },
+  "s5p1-02": {
+    "normal": "a134b9cf93b3dbb5.mp3",
+    "slow": "1f7c1683e55e6ea5.mp3"
+  },
+  "s5p1-03": {
+    "normal": "a0210e5fc6228457.mp3",
+    "slow": "d767404b6245f3e0.mp3"
+  },
+  "s5p1-04": {
+    "normal": "414f60669891fd22.mp3",
+    "slow": "cabac7edcf2c90d5.mp3"
+  },
+  "s5p1-05": {
+    "normal": "700889e8898f592d.mp3",
+    "slow": "65a4909eb35b2452.mp3"
+  },
+  "s5p2-01": {
+    "normal": "9dcbb29a34781340.mp3",
+    "slow": "5b259de5d91621a3.mp3"
+  },
+  "s5p2-02": {
+    "normal": "21c189685e17904c.mp3",
+    "slow": "b16a0c27d8bb837c.mp3"
+  },
+  "s5p2-03": {
+    "normal": "87864eda8b921ed3.mp3",
+    "slow": "970fae9c322e8cfd.mp3"
+  },
+  "s5p2-04": {
+    "normal": "04d8cd796cdcfa7d.mp3",
+    "slow": "1c86616544c21d85.mp3"
+  },
+  "s5p2-05": {
+    "normal": "bbff415f0efa873f.mp3",
+    "slow": "5e0d021453fc3c6e.mp3"
+  },
+  "s5p3-01": {
+    "normal": "fc8da704ae2873f2.mp3",
+    "slow": "be3ba68af4a15d08.mp3"
+  },
+  "s5p3-02": {
+    "normal": "9b3bd30d840d8904.mp3",
+    "slow": "d07897a70ea473eb.mp3"
+  },
+  "s5p3-03": {
+    "normal": "939adc50b43b2aa3.mp3",
+    "slow": "1b095eeb961023da.mp3"
+  },
+  "s5p3-04": {
+    "normal": "a42d068b7bd5107c.mp3",
+    "slow": "33bd8ef61cd651ae.mp3"
+  },
+  "s5p3-05": {
+    "normal": "8d15a23a2b2527e7.mp3",
+    "slow": "561090e591541010.mp3"
+  },
+  "s5p3-06": {
+    "normal": "9966123418dd370a.mp3",
+    "slow": "1e8600fc613a1ec9.mp3"
+  },
+  "s5p4-01": {
+    "normal": "dfc06c87dc53a95b.mp3",
+    "slow": "5f55f78dd38900e6.mp3"
+  },
+  "s5p4-02": {
+    "normal": "e89cd7d2ef2dcdad.mp3",
+    "slow": "0fd90e7482730e9e.mp3"
+  },
+  "s5p4-03": {
+    "normal": "7207679e57dd408f.mp3",
+    "slow": "104c6b64c81f31cf.mp3"
+  },
+  "s5p4-04": {
+    "normal": "10e3d8d06b4a609b.mp3",
+    "slow": "f7c6ca7f2adb3d5f.mp3"
+  },
+  "s5p4-05": {
+    "normal": "f7fe0f831681e1e9.mp3",
+    "slow": "3dd897d219951e66.mp3"
+  },
+  "s5p5-01": {
+    "normal": "1c7c64f542018cc9.mp3",
+    "slow": "126e1e7b93d256ec.mp3"
+  },
+  "s5p5-02": {
+    "normal": "e9b8f328c1a4cc01.mp3",
+    "slow": "d01f568819067ddf.mp3"
+  },
+  "s5p5-03": {
+    "normal": "78d0908e28824a3f.mp3",
+    "slow": "9d024ebc9a1129bf.mp3"
+  },
+  "s5p5-04": {
+    "normal": "38a3f05a92a131d9.mp3",
+    "slow": "4b42f13e40678ba6.mp3"
+  },
+  "s5p5-05": {
+    "normal": "2dc649264c32e805.mp3",
+    "slow": "c5056cf72019695a.mp3"
+  },
+  "s5p5-06": {
+    "normal": "05d2f95b31596504.mp3",
+    "slow": "98434ad87e4e3f00.mp3"
+  },
+  "s6p1-01": {
+    "normal": "0c8c9decf3ecea18.mp3",
+    "slow": "bf7831d9895e6dd8.mp3"
+  },
+  "s6p1-02": {
+    "normal": "961a3795d7e32898.mp3",
+    "slow": "949db0d536773c2f.mp3"
+  },
+  "s6p1-03": {
+    "normal": "f32e60e083350a72.mp3",
+    "slow": "26b32a52678451f7.mp3"
+  },
+  "s6p1-04": {
+    "normal": "5376e1d5f535cae4.mp3",
+    "slow": "33f531c4d1bf4345.mp3"
+  },
+  "s6p1-05": {
+    "normal": "8dbe84da50792543.mp3",
+    "slow": "0f0b38392e5c945d.mp3"
+  },
+  "s6p2-01": {
+    "normal": "5a0a0e09bdf4dea6.mp3",
+    "slow": "1f8bb26ac4b8f107.mp3"
+  },
+  "s6p2-02": {
+    "normal": "1bb4b5826e0ac3ec.mp3",
+    "slow": "88511ec096c927eb.mp3"
+  },
+  "s6p2-03": {
+    "normal": "7ebf8700fa286dcf.mp3",
+    "slow": "e301c00cd58a8a0d.mp3"
+  },
+  "s6p2-04": {
+    "normal": "909928c30075f28b.mp3",
+    "slow": "76f0ef9f4d6a40c4.mp3"
+  },
+  "s6p2-05": {
+    "normal": "ec89ad67d0e93583.mp3",
+    "slow": "40cf6d2fdfde5bd4.mp3"
+  },
+  "s6p3-01": {
+    "normal": "702b7708c0fe9e7b.mp3",
+    "slow": "d6f5a5806e53b4ec.mp3"
+  },
+  "s6p3-02": {
+    "normal": "0220754f2d525695.mp3",
+    "slow": "9f336424753590df.mp3"
+  },
+  "s6p3-03": {
+    "normal": "59acd6af4ae3975d.mp3",
+    "slow": "95cc4527e5925374.mp3"
+  },
+  "s6p3-04": {
+    "normal": "acd13096c14b58fa.mp3",
+    "slow": "409f130d37aed182.mp3"
+  },
+  "s6p3-05": {
+    "normal": "1e072cc8f8a7efef.mp3",
+    "slow": "bee7d4ea43b9f2e4.mp3"
+  },
+  "s6p4-01": {
+    "normal": "969e88ec334cca73.mp3",
+    "slow": "10d48f4db98615fe.mp3"
+  },
+  "s6p4-02": {
+    "normal": "22e183b2f70b49a7.mp3",
+    "slow": "5097b5494d157c25.mp3"
+  },
+  "s6p4-03": {
+    "normal": "8524c05992c8c8cf.mp3",
+    "slow": "6e2a2b1f97e8ee40.mp3"
+  },
+  "s6p4-04": {
+    "normal": "ff561f1aa91f35e3.mp3",
+    "slow": "8d57ace6ce84c7ba.mp3"
+  },
+  "s6p4-05": {
+    "normal": "9cb64796450d8372.mp3",
+    "slow": "c067b3188fd098af.mp3"
+  },
+  "s6p4-06": {
+    "normal": "ab2fdc40b5f24709.mp3",
+    "slow": "3f9928d6149fa647.mp3"
+  },
+  "s6p5-01": {
+    "normal": "9ce41587a0213384.mp3",
+    "slow": "d92dd8ba5f00d905.mp3"
+  },
+  "s6p5-02": {
+    "normal": "7d37908fca1ea0c3.mp3",
+    "slow": "3dd4e307f207b7c7.mp3"
+  },
+  "s6p5-03": {
+    "normal": "aa714afaab4fc6f7.mp3",
+    "slow": "837c68c6b8b9555a.mp3"
+  },
+  "s6p5-04": {
+    "normal": "3e94856cea24c112.mp3",
+    "slow": "efcd6ab25eb42aea.mp3"
+  },
+  "s6p5-05": {
+    "normal": "0a4d27f70a4f4050.mp3",
+    "slow": "e5b687fa0cab378d.mp3"
+  },
+  "s6p5-06": {
+    "normal": "8356513dd69f9e3a.mp3",
+    "slow": "f6641e185b60159c.mp3"
+  },
+  "s7p1-01": {
+    "normal": "35108f2f27485d61.mp3",
+    "slow": "47ecf2a24a82b39a.mp3"
+  },
+  "s7p1-02": {
+    "normal": "5abb77369534d3b6.mp3",
+    "slow": "85ed4c0bae77f1ca.mp3"
+  },
+  "s7p1-03": {
+    "normal": "64b0f7ef9b38efa8.mp3",
+    "slow": "f6b19b646d3918b0.mp3"
+  },
+  "s7p1-04": {
+    "normal": "03e190a0a80974e0.mp3",
+    "slow": "bbe7ec28b0d50f0d.mp3"
+  },
+  "s7p1-05": {
+    "normal": "aa8fda17dab069d0.mp3",
+    "slow": "015edce12c9be6e4.mp3"
+  },
+  "s7p2-01": {
+    "normal": "ae8c6a19eda715b7.mp3",
+    "slow": "97a06db76f02f749.mp3"
+  },
+  "s7p2-02": {
+    "normal": "dec8145c4007281c.mp3",
+    "slow": "da6bf7e46066d00d.mp3"
+  },
+  "s7p2-03": {
+    "normal": "20193c97bf5a6d27.mp3",
+    "slow": "79961c74623daa38.mp3"
+  },
+  "s7p2-04": {
+    "normal": "c56ceb60f807d44d.mp3",
+    "slow": "df49798c0080132f.mp3"
+  },
+  "s7p2-05": {
+    "normal": "9e0f8b92d9dcaf29.mp3",
+    "slow": "72ae036488c32d72.mp3"
+  },
+  "s7p3-01": {
+    "normal": "9b97b48aaa8995a7.mp3",
+    "slow": "459f0152aeae4f67.mp3"
+  },
+  "s7p3-02": {
+    "normal": "513b171074b77c61.mp3",
+    "slow": "1fdce91d86159549.mp3"
+  },
+  "s7p3-03": {
+    "normal": "ef31777c359ef9ab.mp3",
+    "slow": "4f49c25b75dd7049.mp3"
+  },
+  "s7p3-04": {
+    "normal": "1c09d94a07a9747e.mp3",
+    "slow": "048b3b09c977ea3c.mp3"
+  },
+  "s7p3-05": {
+    "normal": "0aaac35bee761323.mp3",
+    "slow": "5b72802c2c48bb8d.mp3"
+  },
+  "s7p3-06": {
+    "normal": "f0f4b8b2a438a27d.mp3",
+    "slow": "d2fbb4ee0a935c84.mp3"
+  },
+  "s7p4-01": {
+    "normal": "250c3fc98389d127.mp3",
+    "slow": "7bcb257c630f714d.mp3"
+  },
+  "s7p4-02": {
+    "normal": "1b604b560df054f4.mp3",
+    "slow": "a0a7c35deef0ddc8.mp3"
+  },
+  "s7p4-03": {
+    "normal": "1e4e08411890485e.mp3",
+    "slow": "2524247294eb2dc0.mp3"
+  },
+  "s7p4-04": {
+    "normal": "d359af797f75d0c2.mp3",
+    "slow": "c7ae81e2e828ae74.mp3"
+  },
+  "s7p4-05": {
+    "normal": "134ccf88b7a45cfa.mp3",
+    "slow": "8c24bd1f126449db.mp3"
+  },
+  "s7p5-01": {
+    "normal": "d5245e59090dc858.mp3",
+    "slow": "f8bff82b604f4c75.mp3"
+  },
+  "s7p5-02": {
+    "normal": "4ce1dd782cff53d1.mp3",
+    "slow": "e03685a1f955d02c.mp3"
+  },
+  "s7p5-03": {
+    "normal": "926662b43fee9edd.mp3",
+    "slow": "4c3759cfaf34c33f.mp3"
+  },
+  "s7p5-04": {
+    "normal": "5f9e331716db7776.mp3",
+    "slow": "b095066358554734.mp3"
+  },
+  "s7p5-05": {
+    "normal": "90a9c267d2fabdd4.mp3",
+    "slow": "db7eab82d0e27aa4.mp3"
+  },
+  "s8p1-01": {
+    "normal": "8310b77ab07ee9ff.mp3",
+    "slow": "4882a21bad4742f8.mp3"
+  },
+  "s8p1-02": {
+    "normal": "6035d0db90777567.mp3",
+    "slow": "9dbb566c6f546e91.mp3"
+  },
+  "s8p1-03": {
+    "normal": "de9cb6341ec1c421.mp3",
+    "slow": "b1912549636e2872.mp3"
+  },
+  "s8p1-04": {
+    "normal": "07426524d1f3a456.mp3",
+    "slow": "27f7fb83ba43f750.mp3"
+  },
+  "s8p1-05": {
+    "normal": "c32dd4829c267054.mp3",
+    "slow": "0c51cc1b0567e5d9.mp3"
+  },
+  "s8p2-01": {
+    "normal": "9c3279ee39511fee.mp3",
+    "slow": "3b7d941fc9851dff.mp3"
+  },
+  "s8p2-02": {
+    "normal": "6e781dc0bc522071.mp3",
+    "slow": "5884a263c5b472d7.mp3"
+  },
+  "s8p2-03": {
+    "normal": "0f7f82c602eb3fa1.mp3",
+    "slow": "3c76e89497de1f6b.mp3"
+  },
+  "s8p2-04": {
+    "normal": "bda33f221c6b2139.mp3",
+    "slow": "832a130c5c3d4e4a.mp3"
+  },
+  "s8p2-05": {
+    "normal": "88db72b000616dcd.mp3",
+    "slow": "8ce74499a4fc7466.mp3"
+  },
+  "s8p3-01": {
+    "normal": "8fe01f09f3555670.mp3",
+    "slow": "51b384a6edd726e8.mp3"
+  },
+  "s8p3-02": {
+    "normal": "934515fa0867c9c6.mp3",
+    "slow": "22164bc08700f8d9.mp3"
+  },
+  "s8p3-03": {
+    "normal": "043136817e90c55b.mp3",
+    "slow": "5ef15200529388aa.mp3"
+  },
+  "s8p3-04": {
+    "normal": "fd7f7a43c552010d.mp3",
+    "slow": "e7cb70933ab88961.mp3"
+  },
+  "s8p3-05": {
+    "normal": "421d6234abb6d3f1.mp3",
+    "slow": "2259c839dc2a7f83.mp3"
+  },
+  "s8p3-06": {
+    "normal": "ae4a4390555820f7.mp3",
+    "slow": "4c2373fede75eb39.mp3"
+  },
+  "s8p4-01": {
+    "normal": "56d3bd8c3eba3e56.mp3",
+    "slow": "0eff4b6d0d5b5b68.mp3"
+  },
+  "s8p4-02": {
+    "normal": "4eda19769f422cf4.mp3",
+    "slow": "d5955bfa472d3bb2.mp3"
+  },
+  "s8p4-03": {
+    "normal": "1a9d0430adcc622c.mp3",
+    "slow": "3596edb4ef7d9629.mp3"
+  },
+  "s8p4-04": {
+    "normal": "12444a98dcdffc26.mp3",
+    "slow": "e49b2d6f97dc2419.mp3"
+  },
+  "s8p4-05": {
+    "normal": "1d440bde605d00a5.mp3",
+    "slow": "b7dc53c092d9ae95.mp3"
+  },
+  "s8p4-06": {
+    "normal": "3ff3759105a4f221.mp3",
+    "slow": "00d226213fea4b85.mp3"
+  },
+  "s8p5-01": {
+    "normal": "fc2cde6ff1b5c1d3.mp3",
+    "slow": "ce8a3e73fced3f54.mp3"
+  },
+  "s8p5-02": {
+    "normal": "6bd81f08ade505b4.mp3",
+    "slow": "c15689e296e051fe.mp3"
+  },
+  "s8p5-03": {
+    "normal": "b1b8d9b0f3a2edc2.mp3",
+    "slow": "0cbbb892f306e047.mp3"
+  },
+  "s8p5-04": {
+    "normal": "cf589ed5b02c773e.mp3",
+    "slow": "4f5ddeedb479563f.mp3"
+  },
+  "s8p5-05": {
+    "normal": "ac107c4ec4a966b4.mp3",
+    "slow": "d726e64d34d09fe9.mp3"
+  },
+  "s8p5-06": {
+    "normal": "1170b4901060fe68.mp3",
+    "slow": "7e81d84986ad5f6f.mp3"
+  },
+  "s9p1-01": {
+    "normal": "c812d90b2759ea0d.mp3",
+    "slow": "65d709969aabe6f5.mp3"
+  },
+  "s9p1-02": {
+    "normal": "22d1b13a1b99deca.mp3",
+    "slow": "73fd297e3e1ebabf.mp3"
+  },
+  "s9p1-03": {
+    "normal": "4d39349a1879173c.mp3",
+    "slow": "270804616c0701fb.mp3"
+  },
+  "s9p1-04": {
+    "normal": "10157babf846ea03.mp3",
+    "slow": "03ab8a08f544166b.mp3"
+  },
+  "s9p1-05": {
+    "normal": "0f5204fd52674948.mp3",
+    "slow": "ce924dec1175b18c.mp3"
+  },
+  "s9p2-01": {
+    "normal": "e592bce7cd046d1f.mp3",
+    "slow": "5732f4abab29d65c.mp3"
+  },
+  "s9p2-02": {
+    "normal": "3f7ab89642f37b27.mp3",
+    "slow": "3445eceb0d004136.mp3"
+  },
+  "s9p2-03": {
+    "normal": "c081511d98a1b851.mp3",
+    "slow": "4840b91c3d3bace7.mp3"
+  },
+  "s9p2-04": {
+    "normal": "d75f167f486d8fd6.mp3",
+    "slow": "018f58fe578ed0b7.mp3"
+  },
+  "s9p2-05": {
+    "normal": "823ed8ed5070e48d.mp3",
+    "slow": "dcb34011ecc48a13.mp3"
+  },
+  "s9p2-06": {
+    "normal": "1b7039bb3f64b82e.mp3",
+    "slow": "944e1bf2900d678b.mp3"
+  },
+  "s9p3-01": {
+    "normal": "d86fd3eb0606faea.mp3",
+    "slow": "fb2799205b62109e.mp3"
+  },
+  "s9p3-02": {
+    "normal": "032fa7d08a2578d7.mp3",
+    "slow": "c3ec3adc590d52d0.mp3"
+  },
+  "s9p3-03": {
+    "normal": "25aacd7150391c43.mp3",
+    "slow": "5b9078657f627fa1.mp3"
+  },
+  "s9p3-04": {
+    "normal": "52dbb7a4c58d2bca.mp3",
+    "slow": "b2aaf1514b7b2c05.mp3"
+  },
+  "s9p3-05": {
+    "normal": "0f7e585dd2a7f204.mp3",
+    "slow": "f5a11d1e58c80c74.mp3"
+  },
+  "s9p3-06": {
+    "normal": "c94396991b15565d.mp3",
+    "slow": "c274a3dd5478812c.mp3"
+  },
+  "s9p4-01": {
+    "normal": "e8cb580ee2484cec.mp3",
+    "slow": "fa3c75884f044206.mp3"
+  },
+  "s9p4-02": {
+    "normal": "700c22b47a23faf3.mp3",
+    "slow": "50e87e757ae384fc.mp3"
+  },
+  "s9p4-03": {
+    "normal": "963eb99968c13805.mp3",
+    "slow": "81cafed141e4ec87.mp3"
+  },
+  "s9p4-04": {
+    "normal": "4dad7f6cb9bda3fb.mp3",
+    "slow": "80608bc1466f47d0.mp3"
+  },
+  "s9p4-05": {
+    "normal": "aa34252a7ce852a7.mp3",
+    "slow": "7f676cf872273ce2.mp3"
+  },
+  "s9p5-01": {
+    "normal": "dcec616073db86a9.mp3",
+    "slow": "d6d85fdd37017241.mp3"
+  },
+  "s9p5-02": {
+    "normal": "ca9e93afd97ab1a7.mp3",
+    "slow": "74a650a53c7b09dc.mp3"
+  },
+  "s9p5-03": {
+    "normal": "c6487fe831988e78.mp3",
+    "slow": "99e3b1d351c287ee.mp3"
+  },
+  "s9p5-04": {
+    "normal": "858f36a254b5e07a.mp3",
+    "slow": "2725b39a479d6283.mp3"
+  },
+  "s9p5-05": {
+    "normal": "68b209f6726eddf7.mp3",
+    "slow": "8c2319ca2c090f54.mp3"
+  },
+  "s9p5-06": {
+    "normal": "c94824be9cc9c1f5.mp3",
+    "slow": "ddc79c5e4d20923d.mp3"
+  },
+  "s10p1-01": {
+    "normal": "652a2d5d1e3076f8.mp3",
+    "slow": "07c4233063deca57.mp3"
+  },
+  "s10p1-02": {
+    "normal": "a1ee7b6bf117128b.mp3",
+    "slow": "2639a48faf1c6e11.mp3"
+  },
+  "s10p1-03": {
+    "normal": "394f1ff9e0d419d7.mp3",
+    "slow": "658f4aff044616e3.mp3"
+  },
+  "s10p1-04": {
+    "normal": "5f628c6892af1bb1.mp3",
+    "slow": "c2e84d3637fffadd.mp3"
+  },
+  "s10p1-05": {
+    "normal": "6906061a8329d4b3.mp3",
+    "slow": "12a7a363b22471f6.mp3"
+  },
+  "s10p2-01": {
+    "normal": "758a44457467da25.mp3",
+    "slow": "56b620cda8657bb3.mp3"
+  },
+  "s10p2-02": {
+    "normal": "8daccf2e6f420d47.mp3",
+    "slow": "096c9cf871a882d1.mp3"
+  },
+  "s10p2-03": {
+    "normal": "1d5e5aea7814ca60.mp3",
+    "slow": "086d56af18f73056.mp3"
+  },
+  "s10p2-04": {
+    "normal": "652ee0e151b03a84.mp3",
+    "slow": "3211fbe6adf91dac.mp3"
+  },
+  "s10p2-05": {
+    "normal": "86b4550d53e0dbee.mp3",
+    "slow": "91a3306e975e269f.mp3"
+  },
+  "s10p3-01": {
+    "normal": "5669a1b6126082f5.mp3",
+    "slow": "88c5b824db5f7006.mp3"
+  },
+  "s10p3-02": {
+    "normal": "c32ae142e16985ca.mp3",
+    "slow": "b01839efa2e7992a.mp3"
+  },
+  "s10p3-03": {
+    "normal": "54d382e31d77bfca.mp3",
+    "slow": "bf02077bd8b074c6.mp3"
+  },
+  "s10p3-04": {
+    "normal": "fd98b562b4ac3276.mp3",
+    "slow": "742ac1e5ab224332.mp3"
+  },
+  "s10p3-05": {
+    "normal": "1fba965ae81c6629.mp3",
+    "slow": "20ac01cce98ca125.mp3"
+  },
+  "s10p3-06": {
+    "normal": "a48d7ac0d446e383.mp3",
+    "slow": "59f2cd760fe677be.mp3"
+  },
+  "s10p4-01": {
+    "normal": "a54b40c91979e271.mp3",
+    "slow": "8454538f7bfd9b21.mp3"
+  },
+  "s10p4-02": {
+    "normal": "c6e3f8bac92b84a3.mp3",
+    "slow": "38ae2f28faf959a8.mp3"
+  },
+  "s10p4-03": {
+    "normal": "7885c165a277547e.mp3",
+    "slow": "52e7b3a214df10b3.mp3"
+  },
+  "s10p4-04": {
+    "normal": "d8dcbc30e8c0d69b.mp3",
+    "slow": "c46d7e16a814a5b0.mp3"
+  },
+  "s10p4-05": {
+    "normal": "48b80ebc036de32c.mp3",
+    "slow": "c5cba0fbf228d168.mp3"
+  },
+  "s10p4-06": {
+    "normal": "a6b4ed59b767b6a0.mp3",
+    "slow": "84cd8e422e0f88ed.mp3"
+  },
+  "s10p5-01": {
+    "normal": "de7151011988a194.mp3",
+    "slow": "9e4bcf4512cc5fd2.mp3"
+  },
+  "s10p5-02": {
+    "normal": "20613f5f4423539e.mp3",
+    "slow": "dfa9fecedc8a8119.mp3"
+  },
+  "s10p5-03": {
+    "normal": "2bacd39c3368efe4.mp3",
+    "slow": "2d2faee4b0bea9ff.mp3"
+  },
+  "s10p5-04": {
+    "normal": "b6adc6c08e2f8f58.mp3",
+    "slow": "f1ac03da48f342ff.mp3"
+  },
+  "s10p5-05": {
+    "normal": "7cc6d093176b5a92.mp3",
+    "slow": "616cb49acb36eacb.mp3"
+  },
+  "conv-cafe-01": {
+    "normal": "74cf11e995bec4e6.mp3",
+    "slow": "23e824b0cfc452ad.mp3"
+  },
+  "conv-cafe-02": {
+    "normal": "31cc72ea89902cbf.mp3",
+    "slow": "a3106c7839a508f6.mp3"
+  },
+  "conv-cafe-03": {
+    "normal": "f7f0533dfa3b43d9.mp3",
+    "slow": "ca695e6f7dc8649c.mp3"
+  },
+  "conv-cafe-04": {
+    "normal": "f97e468bde09d7fc.mp3",
+    "slow": "569556f491de1cfb.mp3"
+  },
+  "conv-cafe-05": {
+    "normal": "e1a09a8cee2e68d4.mp3",
+    "slow": "c1139eb71d2f8972.mp3"
+  },
+  "conv-plans-01": {
+    "normal": "e9c512e39393495d.mp3",
+    "slow": "f01e9c709c69a63e.mp3"
+  },
+  "conv-plans-02": {
+    "normal": "e219600ca97598f2.mp3",
+    "slow": "41e6373c8f26da31.mp3"
+  },
+  "conv-plans-03": {
+    "normal": "8d4f5b129e40b573.mp3",
+    "slow": "1940b3ea040caeb7.mp3"
+  },
+  "conv-plans-04": {
+    "normal": "01a7f62ce4dede05.mp3",
+    "slow": "42640ed217b4919e.mp3"
+  },
+  "conv-plans-05": {
+    "normal": "8baad58c99d23562.mp3",
+    "slow": "d4fdf19a90dc96ff.mp3"
+  },
+  "conv-shop-01": {
+    "normal": "4bbbe1862634fd3b.mp3",
+    "slow": "18c13f5e2f2d3968.mp3"
+  },
+  "conv-shop-02": {
+    "normal": "000dcdeee028925d.mp3",
+    "slow": "416599e4eb8954bc.mp3"
+  },
+  "conv-shop-03": {
+    "normal": "03f139d1da41af93.mp3",
+    "slow": "8adeb1cc86aceb4e.mp3"
+  },
+  "conv-shop-04": {
+    "normal": "2e6df07414e06c9a.mp3",
+    "slow": "f25edf6ed31d5eef.mp3"
+  },
+  "conv-shop-05": {
+    "normal": "0f63362515a5241c.mp3",
+    "slow": "b8fdeeef56eb5981.mp3"
+  },
+  "conv-work-01": {
+    "normal": "49d899a15b03dc32.mp3",
+    "slow": "8c69115642e89df5.mp3"
+  },
+  "conv-work-02": {
+    "normal": "18a9e4fd1304a95c.mp3",
+    "slow": "8f4ff175db1bd494.mp3"
+  },
+  "conv-work-03": {
+    "normal": "69c34bd51536a3c2.mp3",
+    "slow": "bf195c0eb5939863.mp3"
+  },
+  "conv-work-04": {
+    "normal": "0d983c2ad7b485be.mp3",
+    "slow": "d58ad34036ee3695.mp3"
+  },
+  "conv-work-05": {
+    "normal": "54cd1281fb35b03b.mp3",
+    "slow": "d34e1cdc7448ec17.mp3"
+  },
+  "conv-phone-01": {
+    "normal": "30677d56991ca84c.mp3",
+    "slow": "70f3e9a0f55b7695.mp3"
+  },
+  "conv-phone-02": {
+    "normal": "4118dbe3831d171c.mp3",
+    "slow": "bf761db3c4a6196b.mp3"
+  },
+  "conv-phone-03": {
+    "normal": "3a624f6dec08cec1.mp3",
+    "slow": "be75e26e5ee48393.mp3"
+  },
+  "conv-phone-04": {
+    "normal": "f5e48a39bcb6d313.mp3",
+    "slow": "39dd2df7c4c677a6.mp3"
+  },
+  "conv-phone-05": {
+    "normal": "c919ca8a4cc4d2ed.mp3",
+    "slow": "740424c262e43d4b.mp3"
+  },
+  "conv-directions-01": {
+    "normal": "f07f771590c9cde7.mp3",
+    "slow": "9fd8a5c38309e455.mp3"
+  },
+  "conv-directions-02": {
+    "normal": "9542cd3e5e3afa49.mp3",
+    "slow": "be41317b02f1f7df.mp3"
+  },
+  "conv-directions-03": {
+    "normal": "6370f30fe46bb894.mp3",
+    "slow": "c07b53ae9558385f.mp3"
+  },
+  "conv-directions-04": {
+    "normal": "630d8cf2cc9bc7cf.mp3",
+    "slow": "34648217a37537fb.mp3"
+  },
+  "conv-directions-05": {
+    "normal": "1f60c43f99487de4.mp3",
+    "slow": "4ff9c23ba0460c5c.mp3"
+  }
+}
