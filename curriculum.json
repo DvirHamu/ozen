@@ -14780,6 +14780,2726 @@
       "words": 5,
       "kind": "line",
       "speaker": "A"
+    },
+    {
+      "id": "conj-go-past-01",
+      "tts": "אֲנִי הָלַכְתִּי",
+      "answer": "אני הלכתי",
+      "tokens": [
+        "אני",
+        "הלכתי"
+      ],
+      "en": "I went",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-02",
+      "tts": "אַתָּה הָלַכְתָּ",
+      "answer": "אתה הלכת",
+      "tokens": [
+        "אתה",
+        "הלכת"
+      ],
+      "en": "you went (m)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-03",
+      "tts": "אַתְּ הָלַכְתְּ",
+      "answer": "את הלכת",
+      "tokens": [
+        "את",
+        "הלכת"
+      ],
+      "en": "you went (f)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-04",
+      "tts": "הוּא הָלַךְ",
+      "answer": "הוא הלך",
+      "tokens": [
+        "הוא",
+        "הלך"
+      ],
+      "en": "he went",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-05",
+      "tts": "הִיא הָלְכָה",
+      "answer": "היא הלכה",
+      "tokens": [
+        "היא",
+        "הלכה"
+      ],
+      "en": "she went",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-06",
+      "tts": "אֲנַחְנוּ הָלַכְנוּ",
+      "answer": "אנחנו הלכנו",
+      "tokens": [
+        "אנחנו",
+        "הלכנו"
+      ],
+      "en": "we went",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-07",
+      "tts": "אַתֶּם הֲלַכְתֶּם",
+      "answer": "אתם הלכתם",
+      "tokens": [
+        "אתם",
+        "הלכתם"
+      ],
+      "en": "you went (pl)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-past-08",
+      "tts": "הֵם הָלְכוּ",
+      "answer": "הם הלכו",
+      "tokens": [
+        "הם",
+        "הלכו"
+      ],
+      "en": "they went",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "past"
+    },
+    {
+      "id": "conj-go-present-01",
+      "tts": "הוּא הוֹלֵךְ",
+      "answer": "הוא הולך",
+      "tokens": [
+        "הוא",
+        "הולך"
+      ],
+      "en": "he goes",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "present"
+    },
+    {
+      "id": "conj-go-present-02",
+      "tts": "הִיא הוֹלֶכֶת",
+      "answer": "היא הולכת",
+      "tokens": [
+        "היא",
+        "הולכת"
+      ],
+      "en": "she goes",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "present"
+    },
+    {
+      "id": "conj-go-present-03",
+      "tts": "הֵם הוֹלְכִים",
+      "answer": "הם הולכים",
+      "tokens": [
+        "הם",
+        "הולכים"
+      ],
+      "en": "they go (m)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "present"
+    },
+    {
+      "id": "conj-go-present-04",
+      "tts": "הֵן הוֹלְכוֹת",
+      "answer": "הן הולכות",
+      "tokens": [
+        "הן",
+        "הולכות"
+      ],
+      "en": "they go (f)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "present"
+    },
+    {
+      "id": "conj-go-future-01",
+      "tts": "אֲנִי אֵלֵךְ",
+      "answer": "אני אלך",
+      "tokens": [
+        "אני",
+        "אלך"
+      ],
+      "en": "I will go",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-02",
+      "tts": "אַתָּה תֵּלֵךְ",
+      "answer": "אתה תלך",
+      "tokens": [
+        "אתה",
+        "תלך"
+      ],
+      "en": "you will go (m)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-03",
+      "tts": "אַתְּ תֵּלְכִי",
+      "answer": "את תלכי",
+      "tokens": [
+        "את",
+        "תלכי"
+      ],
+      "en": "you will go (f)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-04",
+      "tts": "הוּא יֵלֵךְ",
+      "answer": "הוא ילך",
+      "tokens": [
+        "הוא",
+        "ילך"
+      ],
+      "en": "he will go",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-05",
+      "tts": "הִיא תֵּלֵךְ",
+      "answer": "היא תלך",
+      "tokens": [
+        "היא",
+        "תלך"
+      ],
+      "en": "she will go",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-06",
+      "tts": "אֲנַחְנוּ נֵלֵךְ",
+      "answer": "אנחנו נלך",
+      "tokens": [
+        "אנחנו",
+        "נלך"
+      ],
+      "en": "we will go",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-07",
+      "tts": "אַתֶּם תֵּלְכוּ",
+      "answer": "אתם תלכו",
+      "tokens": [
+        "אתם",
+        "תלכו"
+      ],
+      "en": "you will go (pl)",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-go-future-08",
+      "tts": "הֵם יֵלְכוּ",
+      "answer": "הם ילכו",
+      "tokens": [
+        "הם",
+        "ילכו"
+      ],
+      "en": "they will go",
+      "topic": "verb-go",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "go",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-past-01",
+      "tts": "אֲנִי אָכַלְתִּי",
+      "answer": "אני אכלתי",
+      "tokens": [
+        "אני",
+        "אכלתי"
+      ],
+      "en": "I ate",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-02",
+      "tts": "אַתָּה אָכַלְתָּ",
+      "answer": "אתה אכלת",
+      "tokens": [
+        "אתה",
+        "אכלת"
+      ],
+      "en": "you ate (m)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-03",
+      "tts": "אַתְּ אָכַלְתְּ",
+      "answer": "את אכלת",
+      "tokens": [
+        "את",
+        "אכלת"
+      ],
+      "en": "you ate (f)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-04",
+      "tts": "הוּא אָכַל",
+      "answer": "הוא אכל",
+      "tokens": [
+        "הוא",
+        "אכל"
+      ],
+      "en": "he ate",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-05",
+      "tts": "הִיא אָכְלָה",
+      "answer": "היא אכלה",
+      "tokens": [
+        "היא",
+        "אכלה"
+      ],
+      "en": "she ate",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-06",
+      "tts": "אֲנַחְנוּ אָכַלְנוּ",
+      "answer": "אנחנו אכלנו",
+      "tokens": [
+        "אנחנו",
+        "אכלנו"
+      ],
+      "en": "we ate",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-07",
+      "tts": "אַתֶּם אֲכַלְתֶּם",
+      "answer": "אתם אכלתם",
+      "tokens": [
+        "אתם",
+        "אכלתם"
+      ],
+      "en": "you ate (pl)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-past-08",
+      "tts": "הֵם אָכְלוּ",
+      "answer": "הם אכלו",
+      "tokens": [
+        "הם",
+        "אכלו"
+      ],
+      "en": "they ate",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "past"
+    },
+    {
+      "id": "conj-eat-present-01",
+      "tts": "הוּא אוֹכֵל",
+      "answer": "הוא אוכל",
+      "tokens": [
+        "הוא",
+        "אוכל"
+      ],
+      "en": "he eats",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "present"
+    },
+    {
+      "id": "conj-eat-present-02",
+      "tts": "הִיא אוֹכֶלֶת",
+      "answer": "היא אוכלת",
+      "tokens": [
+        "היא",
+        "אוכלת"
+      ],
+      "en": "she eats",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "present"
+    },
+    {
+      "id": "conj-eat-present-03",
+      "tts": "הֵם אוֹכְלִים",
+      "answer": "הם אוכלים",
+      "tokens": [
+        "הם",
+        "אוכלים"
+      ],
+      "en": "they eat (m)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "present"
+    },
+    {
+      "id": "conj-eat-present-04",
+      "tts": "הֵן אוֹכְלוֹת",
+      "answer": "הן אוכלות",
+      "tokens": [
+        "הן",
+        "אוכלות"
+      ],
+      "en": "they eat (f)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "present"
+    },
+    {
+      "id": "conj-eat-future-01",
+      "tts": "אֲנִי אֹכַל",
+      "answer": "אני אוכל",
+      "tokens": [
+        "אני",
+        "אוכל"
+      ],
+      "en": "I will eat",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-02",
+      "tts": "אַתָּה תֹּאכַל",
+      "answer": "אתה תאכל",
+      "tokens": [
+        "אתה",
+        "תאכל"
+      ],
+      "en": "you will eat (m)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-03",
+      "tts": "אַתְּ תֹּאכְלִי",
+      "answer": "את תאכלי",
+      "tokens": [
+        "את",
+        "תאכלי"
+      ],
+      "en": "you will eat (f)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-04",
+      "tts": "הוּא יֹאכַל",
+      "answer": "הוא יאכל",
+      "tokens": [
+        "הוא",
+        "יאכל"
+      ],
+      "en": "he will eat",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-05",
+      "tts": "הִיא תֹּאכַל",
+      "answer": "היא תאכל",
+      "tokens": [
+        "היא",
+        "תאכל"
+      ],
+      "en": "she will eat",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-06",
+      "tts": "אֲנַחְנוּ נֹאכַל",
+      "answer": "אנחנו נאכל",
+      "tokens": [
+        "אנחנו",
+        "נאכל"
+      ],
+      "en": "we will eat",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-07",
+      "tts": "אַתֶּם תֹּאכְלוּ",
+      "answer": "אתם תאכלו",
+      "tokens": [
+        "אתם",
+        "תאכלו"
+      ],
+      "en": "you will eat (pl)",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-eat-future-08",
+      "tts": "הֵם יֹאכְלוּ",
+      "answer": "הם יאכלו",
+      "tokens": [
+        "הם",
+        "יאכלו"
+      ],
+      "en": "they will eat",
+      "topic": "verb-eat",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "eat",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-past-01",
+      "tts": "אֲנִי כָּתַבְתִּי",
+      "answer": "אני כתבתי",
+      "tokens": [
+        "אני",
+        "כתבתי"
+      ],
+      "en": "I wrote",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-02",
+      "tts": "אַתָּה כָּתַבְתָּ",
+      "answer": "אתה כתבת",
+      "tokens": [
+        "אתה",
+        "כתבת"
+      ],
+      "en": "you wrote (m)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-03",
+      "tts": "אַתְּ כָּתַבְתְּ",
+      "answer": "את כתבת",
+      "tokens": [
+        "את",
+        "כתבת"
+      ],
+      "en": "you wrote (f)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-04",
+      "tts": "הוּא כָּתַב",
+      "answer": "הוא כתב",
+      "tokens": [
+        "הוא",
+        "כתב"
+      ],
+      "en": "he wrote",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-05",
+      "tts": "הִיא כָּתְבָה",
+      "answer": "היא כתבה",
+      "tokens": [
+        "היא",
+        "כתבה"
+      ],
+      "en": "she wrote",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-06",
+      "tts": "אֲנַחְנוּ כָּתַבְנוּ",
+      "answer": "אנחנו כתבנו",
+      "tokens": [
+        "אנחנו",
+        "כתבנו"
+      ],
+      "en": "we wrote",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-07",
+      "tts": "אַתֶּם כְּתַבְתֶּם",
+      "answer": "אתם כתבתם",
+      "tokens": [
+        "אתם",
+        "כתבתם"
+      ],
+      "en": "you wrote (pl)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-past-08",
+      "tts": "הֵם כָּתְבוּ",
+      "answer": "הם כתבו",
+      "tokens": [
+        "הם",
+        "כתבו"
+      ],
+      "en": "they wrote",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "past"
+    },
+    {
+      "id": "conj-write-present-01",
+      "tts": "הוּא כּוֹתֵב",
+      "answer": "הוא כותב",
+      "tokens": [
+        "הוא",
+        "כותב"
+      ],
+      "en": "he writes",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "present"
+    },
+    {
+      "id": "conj-write-present-02",
+      "tts": "הִיא כּוֹתֶבֶת",
+      "answer": "היא כותבת",
+      "tokens": [
+        "היא",
+        "כותבת"
+      ],
+      "en": "she writes",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "present"
+    },
+    {
+      "id": "conj-write-present-03",
+      "tts": "הֵם כּוֹתְבִים",
+      "answer": "הם כותבים",
+      "tokens": [
+        "הם",
+        "כותבים"
+      ],
+      "en": "they write (m)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "present"
+    },
+    {
+      "id": "conj-write-present-04",
+      "tts": "הֵן כּוֹתְבוֹת",
+      "answer": "הן כותבות",
+      "tokens": [
+        "הן",
+        "כותבות"
+      ],
+      "en": "they write (f)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "present"
+    },
+    {
+      "id": "conj-write-future-01",
+      "tts": "אֲנִי אֶכְתֹּב",
+      "answer": "אני אכתוב",
+      "tokens": [
+        "אני",
+        "אכתוב"
+      ],
+      "en": "I will write",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-02",
+      "tts": "אַתָּה תִּכְתֹּב",
+      "answer": "אתה תכתוב",
+      "tokens": [
+        "אתה",
+        "תכתוב"
+      ],
+      "en": "you will write (m)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-03",
+      "tts": "אַתְּ תִּכְתְּבִי",
+      "answer": "את תכתבי",
+      "tokens": [
+        "את",
+        "תכתבי"
+      ],
+      "en": "you will write (f)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-04",
+      "tts": "הוּא יִכְתֹּב",
+      "answer": "הוא יכתוב",
+      "tokens": [
+        "הוא",
+        "יכתוב"
+      ],
+      "en": "he will write",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-05",
+      "tts": "הִיא תִּכְתֹּב",
+      "answer": "היא תכתוב",
+      "tokens": [
+        "היא",
+        "תכתוב"
+      ],
+      "en": "she will write",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-06",
+      "tts": "אֲנַחְנוּ נִכְתֹּב",
+      "answer": "אנחנו נכתוב",
+      "tokens": [
+        "אנחנו",
+        "נכתוב"
+      ],
+      "en": "we will write",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-07",
+      "tts": "אַתֶּם תִּכְתְּבוּ",
+      "answer": "אתם תכתבו",
+      "tokens": [
+        "אתם",
+        "תכתבו"
+      ],
+      "en": "you will write (pl)",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-write-future-08",
+      "tts": "הֵם יִכְתְּבוּ",
+      "answer": "הם יכתבו",
+      "tokens": [
+        "הם",
+        "יכתבו"
+      ],
+      "en": "they will write",
+      "topic": "verb-write",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "write",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-past-01",
+      "tts": "אֲנִי סָגַרְתִּי",
+      "answer": "אני סגרתי",
+      "tokens": [
+        "אני",
+        "סגרתי"
+      ],
+      "en": "I closed",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-02",
+      "tts": "אַתָּה סָגַרְתָּ",
+      "answer": "אתה סגרת",
+      "tokens": [
+        "אתה",
+        "סגרת"
+      ],
+      "en": "you closed (m)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-03",
+      "tts": "אַתְּ סָגַרְתְּ",
+      "answer": "את סגרת",
+      "tokens": [
+        "את",
+        "סגרת"
+      ],
+      "en": "you closed (f)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-04",
+      "tts": "הוּא סָגַר",
+      "answer": "הוא סגר",
+      "tokens": [
+        "הוא",
+        "סגר"
+      ],
+      "en": "he closed",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-05",
+      "tts": "הִיא סָגְרָה",
+      "answer": "היא סגרה",
+      "tokens": [
+        "היא",
+        "סגרה"
+      ],
+      "en": "she closed",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-06",
+      "tts": "אֲנַחְנוּ סָגַרְנוּ",
+      "answer": "אנחנו סגרנו",
+      "tokens": [
+        "אנחנו",
+        "סגרנו"
+      ],
+      "en": "we closed",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-07",
+      "tts": "אַתֶּם סְגַרְתֶּם",
+      "answer": "אתם סגרתם",
+      "tokens": [
+        "אתם",
+        "סגרתם"
+      ],
+      "en": "you closed (pl)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-past-08",
+      "tts": "הֵם סָגְרוּ",
+      "answer": "הם סגרו",
+      "tokens": [
+        "הם",
+        "סגרו"
+      ],
+      "en": "they closed",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "past"
+    },
+    {
+      "id": "conj-close-present-01",
+      "tts": "הוּא סוֹגֵר",
+      "answer": "הוא סוגר",
+      "tokens": [
+        "הוא",
+        "סוגר"
+      ],
+      "en": "he closes",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "present"
+    },
+    {
+      "id": "conj-close-present-02",
+      "tts": "הִיא סוֹגֶרֶת",
+      "answer": "היא סוגרת",
+      "tokens": [
+        "היא",
+        "סוגרת"
+      ],
+      "en": "she closes",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "present"
+    },
+    {
+      "id": "conj-close-present-03",
+      "tts": "הֵם סוֹגְרִים",
+      "answer": "הם סוגרים",
+      "tokens": [
+        "הם",
+        "סוגרים"
+      ],
+      "en": "they close (m)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "present"
+    },
+    {
+      "id": "conj-close-present-04",
+      "tts": "הֵן סוֹגְרוֹת",
+      "answer": "הן סוגרות",
+      "tokens": [
+        "הן",
+        "סוגרות"
+      ],
+      "en": "they close (f)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "present"
+    },
+    {
+      "id": "conj-close-future-01",
+      "tts": "אֲנִי אֶסְגֹּר",
+      "answer": "אני אסגור",
+      "tokens": [
+        "אני",
+        "אסגור"
+      ],
+      "en": "I will close",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-02",
+      "tts": "אַתָּה תִּסְגֹּר",
+      "answer": "אתה תסגור",
+      "tokens": [
+        "אתה",
+        "תסגור"
+      ],
+      "en": "you will close (m)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-03",
+      "tts": "אַתְּ תִּסְגְּרִי",
+      "answer": "את תסגרי",
+      "tokens": [
+        "את",
+        "תסגרי"
+      ],
+      "en": "you will close (f)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-04",
+      "tts": "הוּא יִסְגֹּר",
+      "answer": "הוא יסגור",
+      "tokens": [
+        "הוא",
+        "יסגור"
+      ],
+      "en": "he will close",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-05",
+      "tts": "הִיא תִּסְגֹּר",
+      "answer": "היא תסגור",
+      "tokens": [
+        "היא",
+        "תסגור"
+      ],
+      "en": "she will close",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-06",
+      "tts": "אֲנַחְנוּ נִסְגֹּר",
+      "answer": "אנחנו נסגור",
+      "tokens": [
+        "אנחנו",
+        "נסגור"
+      ],
+      "en": "we will close",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-07",
+      "tts": "אַתֶּם תִּסְגְּרוּ",
+      "answer": "אתם תסגרו",
+      "tokens": [
+        "אתם",
+        "תסגרו"
+      ],
+      "en": "you will close (pl)",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-close-future-08",
+      "tts": "הֵם יִסְגְּרוּ",
+      "answer": "הם יסגרו",
+      "tokens": [
+        "הם",
+        "יסגרו"
+      ],
+      "en": "they will close",
+      "topic": "verb-close",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "close",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-past-01",
+      "tts": "אֲנִי קָרָאתִי",
+      "answer": "אני קראתי",
+      "tokens": [
+        "אני",
+        "קראתי"
+      ],
+      "en": "I read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-02",
+      "tts": "אַתָּה קָרָאתָ",
+      "answer": "אתה קראת",
+      "tokens": [
+        "אתה",
+        "קראת"
+      ],
+      "en": "you read (m)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-03",
+      "tts": "אַתְּ קָרָאת",
+      "answer": "את קראת",
+      "tokens": [
+        "את",
+        "קראת"
+      ],
+      "en": "you read (f)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-04",
+      "tts": "הוּא קָרָא",
+      "answer": "הוא קרא",
+      "tokens": [
+        "הוא",
+        "קרא"
+      ],
+      "en": "he read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-05",
+      "tts": "הִיא קָרְאָה",
+      "answer": "היא קראה",
+      "tokens": [
+        "היא",
+        "קראה"
+      ],
+      "en": "she read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-06",
+      "tts": "אֲנַחְנוּ קָרָאנוּ",
+      "answer": "אנחנו קראנו",
+      "tokens": [
+        "אנחנו",
+        "קראנו"
+      ],
+      "en": "we read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-07",
+      "tts": "אַתֶּם קְרָאתֶם",
+      "answer": "אתם קראתם",
+      "tokens": [
+        "אתם",
+        "קראתם"
+      ],
+      "en": "you read (pl)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-past-08",
+      "tts": "הֵם קָרְאוּ",
+      "answer": "הם קראו",
+      "tokens": [
+        "הם",
+        "קראו"
+      ],
+      "en": "they read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "past"
+    },
+    {
+      "id": "conj-read-present-01",
+      "tts": "הוּא קוֹרֵא",
+      "answer": "הוא קורא",
+      "tokens": [
+        "הוא",
+        "קורא"
+      ],
+      "en": "he reads",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "present"
+    },
+    {
+      "id": "conj-read-present-02",
+      "tts": "הִיא קוֹרֵאת",
+      "answer": "היא קוראת",
+      "tokens": [
+        "היא",
+        "קוראת"
+      ],
+      "en": "she reads",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "present"
+    },
+    {
+      "id": "conj-read-present-03",
+      "tts": "הֵם קוֹרְאִים",
+      "answer": "הם קוראים",
+      "tokens": [
+        "הם",
+        "קוראים"
+      ],
+      "en": "they read (m)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "present"
+    },
+    {
+      "id": "conj-read-present-04",
+      "tts": "הֵן קוֹרְאוֹת",
+      "answer": "הן קוראות",
+      "tokens": [
+        "הן",
+        "קוראות"
+      ],
+      "en": "they read (f)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "present"
+    },
+    {
+      "id": "conj-read-future-01",
+      "tts": "אֲנִי אֶקְרָא",
+      "answer": "אני אקרא",
+      "tokens": [
+        "אני",
+        "אקרא"
+      ],
+      "en": "I will read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-02",
+      "tts": "אַתָּה תִּקְרָא",
+      "answer": "אתה תקרא",
+      "tokens": [
+        "אתה",
+        "תקרא"
+      ],
+      "en": "you will read (m)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-03",
+      "tts": "אַתְּ תִּקְרְאִי",
+      "answer": "את תקראי",
+      "tokens": [
+        "את",
+        "תקראי"
+      ],
+      "en": "you will read (f)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-04",
+      "tts": "הוּא יִקְרָא",
+      "answer": "הוא יקרא",
+      "tokens": [
+        "הוא",
+        "יקרא"
+      ],
+      "en": "he will read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-05",
+      "tts": "הִיא תִּקְרָא",
+      "answer": "היא תקרא",
+      "tokens": [
+        "היא",
+        "תקרא"
+      ],
+      "en": "she will read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-06",
+      "tts": "אֲנַחְנוּ נִקְרָא",
+      "answer": "אנחנו נקרא",
+      "tokens": [
+        "אנחנו",
+        "נקרא"
+      ],
+      "en": "we will read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-07",
+      "tts": "אַתֶּם תִּקְרְאוּ",
+      "answer": "אתם תקראו",
+      "tokens": [
+        "אתם",
+        "תקראו"
+      ],
+      "en": "you will read (pl)",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-read-future-08",
+      "tts": "הֵם יִקְרְאוּ",
+      "answer": "הם יקראו",
+      "tokens": [
+        "הם",
+        "יקראו"
+      ],
+      "en": "they will read",
+      "topic": "verb-read",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "read",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-past-01",
+      "tts": "אֲנִי רָאִיתִי",
+      "answer": "אני ראיתי",
+      "tokens": [
+        "אני",
+        "ראיתי"
+      ],
+      "en": "I saw",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-02",
+      "tts": "אַתָּה רָאִיתָ",
+      "answer": "אתה ראית",
+      "tokens": [
+        "אתה",
+        "ראית"
+      ],
+      "en": "you saw (m)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-03",
+      "tts": "אַתְּ רָאִית",
+      "answer": "את ראית",
+      "tokens": [
+        "את",
+        "ראית"
+      ],
+      "en": "you saw (f)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-04",
+      "tts": "הוּא רָאָה",
+      "answer": "הוא ראה",
+      "tokens": [
+        "הוא",
+        "ראה"
+      ],
+      "en": "he saw",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-05",
+      "tts": "הִיא רָאֲתָה",
+      "answer": "היא ראתה",
+      "tokens": [
+        "היא",
+        "ראתה"
+      ],
+      "en": "she saw",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-06",
+      "tts": "אֲנַחְנוּ רָאִינוּ",
+      "answer": "אנחנו ראינו",
+      "tokens": [
+        "אנחנו",
+        "ראינו"
+      ],
+      "en": "we saw",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-07",
+      "tts": "אַתֶּם רְאִיתֶם",
+      "answer": "אתם ראיתם",
+      "tokens": [
+        "אתם",
+        "ראיתם"
+      ],
+      "en": "you saw (pl)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-past-08",
+      "tts": "הֵם רָאוּ",
+      "answer": "הם ראו",
+      "tokens": [
+        "הם",
+        "ראו"
+      ],
+      "en": "they saw",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "past"
+    },
+    {
+      "id": "conj-see-present-01",
+      "tts": "הוּא רוֹאֶה",
+      "answer": "הוא רואה",
+      "tokens": [
+        "הוא",
+        "רואה"
+      ],
+      "en": "he sees",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "present"
+    },
+    {
+      "id": "conj-see-present-02",
+      "tts": "הִיא רוֹאָה",
+      "answer": "היא רואה",
+      "tokens": [
+        "היא",
+        "רואה"
+      ],
+      "en": "she sees",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "present"
+    },
+    {
+      "id": "conj-see-present-03",
+      "tts": "הֵם רוֹאִים",
+      "answer": "הם רואים",
+      "tokens": [
+        "הם",
+        "רואים"
+      ],
+      "en": "they see (m)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "present"
+    },
+    {
+      "id": "conj-see-present-04",
+      "tts": "הֵן רוֹאוֹת",
+      "answer": "הן רואות",
+      "tokens": [
+        "הן",
+        "רואות"
+      ],
+      "en": "they see (f)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "present"
+    },
+    {
+      "id": "conj-see-future-01",
+      "tts": "אֲנִי אֶרְאֶה",
+      "answer": "אני אראה",
+      "tokens": [
+        "אני",
+        "אראה"
+      ],
+      "en": "I will see",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-02",
+      "tts": "אַתָּה תִּרְאֶה",
+      "answer": "אתה תראה",
+      "tokens": [
+        "אתה",
+        "תראה"
+      ],
+      "en": "you will see (m)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-03",
+      "tts": "אַתְּ תִּרְאִי",
+      "answer": "את תראי",
+      "tokens": [
+        "את",
+        "תראי"
+      ],
+      "en": "you will see (f)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-04",
+      "tts": "הוּא יִרְאֶה",
+      "answer": "הוא יראה",
+      "tokens": [
+        "הוא",
+        "יראה"
+      ],
+      "en": "he will see",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-05",
+      "tts": "הִיא תִּרְאֶה",
+      "answer": "היא תראה",
+      "tokens": [
+        "היא",
+        "תראה"
+      ],
+      "en": "she will see",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-06",
+      "tts": "אֲנַחְנוּ נִרְאֶה",
+      "answer": "אנחנו נראה",
+      "tokens": [
+        "אנחנו",
+        "נראה"
+      ],
+      "en": "we will see",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-07",
+      "tts": "אַתֶּם תִּרְאוּ",
+      "answer": "אתם תראו",
+      "tokens": [
+        "אתם",
+        "תראו"
+      ],
+      "en": "you will see (pl)",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-see-future-08",
+      "tts": "הֵם יִרְאוּ",
+      "answer": "הם יראו",
+      "tokens": [
+        "הם",
+        "יראו"
+      ],
+      "en": "they will see",
+      "topic": "verb-see",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "see",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-past-01",
+      "tts": "אֲנִי שָׁתִיתִי",
+      "answer": "אני שתיתי",
+      "tokens": [
+        "אני",
+        "שתיתי"
+      ],
+      "en": "I drank",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-02",
+      "tts": "אַתָּה שָׁתִיתָ",
+      "answer": "אתה שתית",
+      "tokens": [
+        "אתה",
+        "שתית"
+      ],
+      "en": "you drank (m)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-03",
+      "tts": "אַתְּ שָׁתִית",
+      "answer": "את שתית",
+      "tokens": [
+        "את",
+        "שתית"
+      ],
+      "en": "you drank (f)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-04",
+      "tts": "הוּא שָׁתָה",
+      "answer": "הוא שתה",
+      "tokens": [
+        "הוא",
+        "שתה"
+      ],
+      "en": "he drank",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-05",
+      "tts": "הִיא שָׁתְתָה",
+      "answer": "היא שתתה",
+      "tokens": [
+        "היא",
+        "שתתה"
+      ],
+      "en": "she drank",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-06",
+      "tts": "אֲנַחְנוּ שָׁתִינוּ",
+      "answer": "אנחנו שתינו",
+      "tokens": [
+        "אנחנו",
+        "שתינו"
+      ],
+      "en": "we drank",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-07",
+      "tts": "אַתֶּם שְׁתִיתֶם",
+      "answer": "אתם שתיתם",
+      "tokens": [
+        "אתם",
+        "שתיתם"
+      ],
+      "en": "you drank (pl)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-past-08",
+      "tts": "הֵם שָׁתוּ",
+      "answer": "הם שתו",
+      "tokens": [
+        "הם",
+        "שתו"
+      ],
+      "en": "they drank",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "past"
+    },
+    {
+      "id": "conj-drink-present-01",
+      "tts": "הוּא שׁוֹתֶה",
+      "answer": "הוא שותה",
+      "tokens": [
+        "הוא",
+        "שותה"
+      ],
+      "en": "he drinks",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "present"
+    },
+    {
+      "id": "conj-drink-present-02",
+      "tts": "הִיא שׁוֹתָה",
+      "answer": "היא שותה",
+      "tokens": [
+        "היא",
+        "שותה"
+      ],
+      "en": "she drinks",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "present"
+    },
+    {
+      "id": "conj-drink-present-03",
+      "tts": "הֵם שׁוֹתִים",
+      "answer": "הם שותים",
+      "tokens": [
+        "הם",
+        "שותים"
+      ],
+      "en": "they drink (m)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "present"
+    },
+    {
+      "id": "conj-drink-present-04",
+      "tts": "הֵן שׁוֹתוֹת",
+      "answer": "הן שותות",
+      "tokens": [
+        "הן",
+        "שותות"
+      ],
+      "en": "they drink (f)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "present"
+    },
+    {
+      "id": "conj-drink-future-01",
+      "tts": "אֲנִי אֶשְׁתֶּה",
+      "answer": "אני אשתה",
+      "tokens": [
+        "אני",
+        "אשתה"
+      ],
+      "en": "I will drink",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-02",
+      "tts": "אַתָּה תִּשְׁתֶּה",
+      "answer": "אתה תשתה",
+      "tokens": [
+        "אתה",
+        "תשתה"
+      ],
+      "en": "you will drink (m)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-03",
+      "tts": "אַתְּ תִּשְׁתִּי",
+      "answer": "את תשתי",
+      "tokens": [
+        "את",
+        "תשתי"
+      ],
+      "en": "you will drink (f)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-04",
+      "tts": "הוּא יִשְׁתֶּה",
+      "answer": "הוא ישתה",
+      "tokens": [
+        "הוא",
+        "ישתה"
+      ],
+      "en": "he will drink",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-05",
+      "tts": "הִיא תִּשְׁתֶּה",
+      "answer": "היא תשתה",
+      "tokens": [
+        "היא",
+        "תשתה"
+      ],
+      "en": "she will drink",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-06",
+      "tts": "אֲנַחְנוּ נִשְׁתֶּה",
+      "answer": "אנחנו נשתה",
+      "tokens": [
+        "אנחנו",
+        "נשתה"
+      ],
+      "en": "we will drink",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-07",
+      "tts": "אַתֶּם תִּשְׁתּוּ",
+      "answer": "אתם תשתו",
+      "tokens": [
+        "אתם",
+        "תשתו"
+      ],
+      "en": "you will drink (pl)",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-drink-future-08",
+      "tts": "הֵם יִשְׁתּוּ",
+      "answer": "הם ישתו",
+      "tokens": [
+        "הם",
+        "ישתו"
+      ],
+      "en": "they will drink",
+      "topic": "verb-drink",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "drink",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-past-01",
+      "tts": "אֲנִי דִּבַּרְתִּי",
+      "answer": "אני דיברתי",
+      "tokens": [
+        "אני",
+        "דיברתי"
+      ],
+      "en": "I spoke",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-02",
+      "tts": "אַתָּה דִּבַּרְתָּ",
+      "answer": "אתה דיברת",
+      "tokens": [
+        "אתה",
+        "דיברת"
+      ],
+      "en": "you spoke (m)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-03",
+      "tts": "אַתְּ דִּבַּרְתְּ",
+      "answer": "את דיברת",
+      "tokens": [
+        "את",
+        "דיברת"
+      ],
+      "en": "you spoke (f)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-04",
+      "tts": "הוּא דִּבֵּר",
+      "answer": "הוא דיבר",
+      "tokens": [
+        "הוא",
+        "דיבר"
+      ],
+      "en": "he spoke",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-05",
+      "tts": "הִיא דִּבְּרָה",
+      "answer": "היא דיברה",
+      "tokens": [
+        "היא",
+        "דיברה"
+      ],
+      "en": "she spoke",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-06",
+      "tts": "אֲנַחְנוּ דִּבַּרְנוּ",
+      "answer": "אנחנו דיברנו",
+      "tokens": [
+        "אנחנו",
+        "דיברנו"
+      ],
+      "en": "we spoke",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-07",
+      "tts": "אַתֶּם דִּבַּרְתֶּם",
+      "answer": "אתם דיברתם",
+      "tokens": [
+        "אתם",
+        "דיברתם"
+      ],
+      "en": "you spoke (pl)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-past-08",
+      "tts": "הֵם דִּבְּרוּ",
+      "answer": "הם דיברו",
+      "tokens": [
+        "הם",
+        "דיברו"
+      ],
+      "en": "they spoke",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "past"
+    },
+    {
+      "id": "conj-speak-present-01",
+      "tts": "הוּא מְדַבֵּר",
+      "answer": "הוא מדבר",
+      "tokens": [
+        "הוא",
+        "מדבר"
+      ],
+      "en": "he speaks",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "present"
+    },
+    {
+      "id": "conj-speak-present-02",
+      "tts": "הִיא מְדַבֶּרֶת",
+      "answer": "היא מדברת",
+      "tokens": [
+        "היא",
+        "מדברת"
+      ],
+      "en": "she speaks",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "present"
+    },
+    {
+      "id": "conj-speak-present-03",
+      "tts": "הֵם מְדַבְּרִים",
+      "answer": "הם מדברים",
+      "tokens": [
+        "הם",
+        "מדברים"
+      ],
+      "en": "they speak (m)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "present"
+    },
+    {
+      "id": "conj-speak-present-04",
+      "tts": "הֵן מְדַבְּרוֹת",
+      "answer": "הן מדברות",
+      "tokens": [
+        "הן",
+        "מדברות"
+      ],
+      "en": "they speak (f)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "present"
+    },
+    {
+      "id": "conj-speak-future-01",
+      "tts": "אֲנִי אֲדַבֵּר",
+      "answer": "אני אדבר",
+      "tokens": [
+        "אני",
+        "אדבר"
+      ],
+      "en": "I will speak",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-02",
+      "tts": "אַתָּה תְּדַבֵּר",
+      "answer": "אתה תדבר",
+      "tokens": [
+        "אתה",
+        "תדבר"
+      ],
+      "en": "you will speak (m)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-03",
+      "tts": "אַתְּ תְּדַבְּרִי",
+      "answer": "את תדברי",
+      "tokens": [
+        "את",
+        "תדברי"
+      ],
+      "en": "you will speak (f)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-04",
+      "tts": "הוּא יְדַבֵּר",
+      "answer": "הוא ידבר",
+      "tokens": [
+        "הוא",
+        "ידבר"
+      ],
+      "en": "he will speak",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-05",
+      "tts": "הִיא תְּדַבֵּר",
+      "answer": "היא תדבר",
+      "tokens": [
+        "היא",
+        "תדבר"
+      ],
+      "en": "she will speak",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-06",
+      "tts": "אֲנַחְנוּ נְדַבֵּר",
+      "answer": "אנחנו נדבר",
+      "tokens": [
+        "אנחנו",
+        "נדבר"
+      ],
+      "en": "we will speak",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-07",
+      "tts": "אַתֶּם תְּדַבְּרוּ",
+      "answer": "אתם תדברו",
+      "tokens": [
+        "אתם",
+        "תדברו"
+      ],
+      "en": "you will speak (pl)",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
+    },
+    {
+      "id": "conj-speak-future-08",
+      "tts": "הֵם יְדַבְּרוּ",
+      "answer": "הם ידברו",
+      "tokens": [
+        "הם",
+        "ידברו"
+      ],
+      "en": "they will speak",
+      "topic": "verb-speak",
+      "accept": [],
+      "level": "easy",
+      "words": 2,
+      "kind": "line",
+      "verb": "speak",
+      "tense": "future"
     }
   ],
   "categories": [
@@ -15009,6 +17729,592 @@
         "conv-directions-03",
         "conv-directions-04",
         "conv-directions-05"
+      ]
+    }
+  ],
+  "conjugations": [
+    {
+      "id": "go",
+      "infinitive": "ללכת",
+      "tts": "לָלֶכֶת",
+      "en": "to go",
+      "binyan": "pa'al",
+      "topic": "verb-go",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-go-past-01",
+            "conj-go-past-02",
+            "conj-go-past-03",
+            "conj-go-past-04",
+            "conj-go-past-05",
+            "conj-go-past-06",
+            "conj-go-past-07",
+            "conj-go-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-go-present-01",
+            "conj-go-present-02",
+            "conj-go-present-03",
+            "conj-go-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-go-future-01",
+            "conj-go-future-02",
+            "conj-go-future-03",
+            "conj-go-future-04",
+            "conj-go-future-05",
+            "conj-go-future-06",
+            "conj-go-future-07",
+            "conj-go-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-go-past-01",
+        "conj-go-past-02",
+        "conj-go-past-03",
+        "conj-go-past-04",
+        "conj-go-past-05",
+        "conj-go-past-06",
+        "conj-go-past-07",
+        "conj-go-past-08",
+        "conj-go-present-01",
+        "conj-go-present-02",
+        "conj-go-present-03",
+        "conj-go-present-04",
+        "conj-go-future-01",
+        "conj-go-future-02",
+        "conj-go-future-03",
+        "conj-go-future-04",
+        "conj-go-future-05",
+        "conj-go-future-06",
+        "conj-go-future-07",
+        "conj-go-future-08"
+      ]
+    },
+    {
+      "id": "eat",
+      "infinitive": "לאכול",
+      "tts": "לֶאֱכֹל",
+      "en": "to eat",
+      "binyan": "pa'al",
+      "topic": "verb-eat",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-eat-past-01",
+            "conj-eat-past-02",
+            "conj-eat-past-03",
+            "conj-eat-past-04",
+            "conj-eat-past-05",
+            "conj-eat-past-06",
+            "conj-eat-past-07",
+            "conj-eat-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-eat-present-01",
+            "conj-eat-present-02",
+            "conj-eat-present-03",
+            "conj-eat-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-eat-future-01",
+            "conj-eat-future-02",
+            "conj-eat-future-03",
+            "conj-eat-future-04",
+            "conj-eat-future-05",
+            "conj-eat-future-06",
+            "conj-eat-future-07",
+            "conj-eat-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-eat-past-01",
+        "conj-eat-past-02",
+        "conj-eat-past-03",
+        "conj-eat-past-04",
+        "conj-eat-past-05",
+        "conj-eat-past-06",
+        "conj-eat-past-07",
+        "conj-eat-past-08",
+        "conj-eat-present-01",
+        "conj-eat-present-02",
+        "conj-eat-present-03",
+        "conj-eat-present-04",
+        "conj-eat-future-01",
+        "conj-eat-future-02",
+        "conj-eat-future-03",
+        "conj-eat-future-04",
+        "conj-eat-future-05",
+        "conj-eat-future-06",
+        "conj-eat-future-07",
+        "conj-eat-future-08"
+      ]
+    },
+    {
+      "id": "write",
+      "infinitive": "לכתוב",
+      "tts": "לִכְתֹּב",
+      "en": "to write",
+      "binyan": "pa'al",
+      "topic": "verb-write",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-write-past-01",
+            "conj-write-past-02",
+            "conj-write-past-03",
+            "conj-write-past-04",
+            "conj-write-past-05",
+            "conj-write-past-06",
+            "conj-write-past-07",
+            "conj-write-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-write-present-01",
+            "conj-write-present-02",
+            "conj-write-present-03",
+            "conj-write-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-write-future-01",
+            "conj-write-future-02",
+            "conj-write-future-03",
+            "conj-write-future-04",
+            "conj-write-future-05",
+            "conj-write-future-06",
+            "conj-write-future-07",
+            "conj-write-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-write-past-01",
+        "conj-write-past-02",
+        "conj-write-past-03",
+        "conj-write-past-04",
+        "conj-write-past-05",
+        "conj-write-past-06",
+        "conj-write-past-07",
+        "conj-write-past-08",
+        "conj-write-present-01",
+        "conj-write-present-02",
+        "conj-write-present-03",
+        "conj-write-present-04",
+        "conj-write-future-01",
+        "conj-write-future-02",
+        "conj-write-future-03",
+        "conj-write-future-04",
+        "conj-write-future-05",
+        "conj-write-future-06",
+        "conj-write-future-07",
+        "conj-write-future-08"
+      ]
+    },
+    {
+      "id": "close",
+      "infinitive": "לסגור",
+      "tts": "לִסְגֹּר",
+      "en": "to close",
+      "binyan": "pa'al",
+      "topic": "verb-close",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-close-past-01",
+            "conj-close-past-02",
+            "conj-close-past-03",
+            "conj-close-past-04",
+            "conj-close-past-05",
+            "conj-close-past-06",
+            "conj-close-past-07",
+            "conj-close-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-close-present-01",
+            "conj-close-present-02",
+            "conj-close-present-03",
+            "conj-close-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-close-future-01",
+            "conj-close-future-02",
+            "conj-close-future-03",
+            "conj-close-future-04",
+            "conj-close-future-05",
+            "conj-close-future-06",
+            "conj-close-future-07",
+            "conj-close-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-close-past-01",
+        "conj-close-past-02",
+        "conj-close-past-03",
+        "conj-close-past-04",
+        "conj-close-past-05",
+        "conj-close-past-06",
+        "conj-close-past-07",
+        "conj-close-past-08",
+        "conj-close-present-01",
+        "conj-close-present-02",
+        "conj-close-present-03",
+        "conj-close-present-04",
+        "conj-close-future-01",
+        "conj-close-future-02",
+        "conj-close-future-03",
+        "conj-close-future-04",
+        "conj-close-future-05",
+        "conj-close-future-06",
+        "conj-close-future-07",
+        "conj-close-future-08"
+      ]
+    },
+    {
+      "id": "read",
+      "infinitive": "לקרוא",
+      "tts": "לִקְרֹא",
+      "en": "to read",
+      "binyan": "pa'al",
+      "topic": "verb-read",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-read-past-01",
+            "conj-read-past-02",
+            "conj-read-past-03",
+            "conj-read-past-04",
+            "conj-read-past-05",
+            "conj-read-past-06",
+            "conj-read-past-07",
+            "conj-read-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-read-present-01",
+            "conj-read-present-02",
+            "conj-read-present-03",
+            "conj-read-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-read-future-01",
+            "conj-read-future-02",
+            "conj-read-future-03",
+            "conj-read-future-04",
+            "conj-read-future-05",
+            "conj-read-future-06",
+            "conj-read-future-07",
+            "conj-read-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-read-past-01",
+        "conj-read-past-02",
+        "conj-read-past-03",
+        "conj-read-past-04",
+        "conj-read-past-05",
+        "conj-read-past-06",
+        "conj-read-past-07",
+        "conj-read-past-08",
+        "conj-read-present-01",
+        "conj-read-present-02",
+        "conj-read-present-03",
+        "conj-read-present-04",
+        "conj-read-future-01",
+        "conj-read-future-02",
+        "conj-read-future-03",
+        "conj-read-future-04",
+        "conj-read-future-05",
+        "conj-read-future-06",
+        "conj-read-future-07",
+        "conj-read-future-08"
+      ]
+    },
+    {
+      "id": "see",
+      "infinitive": "לראות",
+      "tts": "לִרְאוֹת",
+      "en": "to see",
+      "binyan": "pa'al",
+      "topic": "verb-see",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-see-past-01",
+            "conj-see-past-02",
+            "conj-see-past-03",
+            "conj-see-past-04",
+            "conj-see-past-05",
+            "conj-see-past-06",
+            "conj-see-past-07",
+            "conj-see-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-see-present-01",
+            "conj-see-present-02",
+            "conj-see-present-03",
+            "conj-see-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-see-future-01",
+            "conj-see-future-02",
+            "conj-see-future-03",
+            "conj-see-future-04",
+            "conj-see-future-05",
+            "conj-see-future-06",
+            "conj-see-future-07",
+            "conj-see-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-see-past-01",
+        "conj-see-past-02",
+        "conj-see-past-03",
+        "conj-see-past-04",
+        "conj-see-past-05",
+        "conj-see-past-06",
+        "conj-see-past-07",
+        "conj-see-past-08",
+        "conj-see-present-01",
+        "conj-see-present-02",
+        "conj-see-present-03",
+        "conj-see-present-04",
+        "conj-see-future-01",
+        "conj-see-future-02",
+        "conj-see-future-03",
+        "conj-see-future-04",
+        "conj-see-future-05",
+        "conj-see-future-06",
+        "conj-see-future-07",
+        "conj-see-future-08"
+      ]
+    },
+    {
+      "id": "drink",
+      "infinitive": "לשתות",
+      "tts": "לִשְׁתּוֹת",
+      "en": "to drink",
+      "binyan": "pa'al",
+      "topic": "verb-drink",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-drink-past-01",
+            "conj-drink-past-02",
+            "conj-drink-past-03",
+            "conj-drink-past-04",
+            "conj-drink-past-05",
+            "conj-drink-past-06",
+            "conj-drink-past-07",
+            "conj-drink-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-drink-present-01",
+            "conj-drink-present-02",
+            "conj-drink-present-03",
+            "conj-drink-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-drink-future-01",
+            "conj-drink-future-02",
+            "conj-drink-future-03",
+            "conj-drink-future-04",
+            "conj-drink-future-05",
+            "conj-drink-future-06",
+            "conj-drink-future-07",
+            "conj-drink-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-drink-past-01",
+        "conj-drink-past-02",
+        "conj-drink-past-03",
+        "conj-drink-past-04",
+        "conj-drink-past-05",
+        "conj-drink-past-06",
+        "conj-drink-past-07",
+        "conj-drink-past-08",
+        "conj-drink-present-01",
+        "conj-drink-present-02",
+        "conj-drink-present-03",
+        "conj-drink-present-04",
+        "conj-drink-future-01",
+        "conj-drink-future-02",
+        "conj-drink-future-03",
+        "conj-drink-future-04",
+        "conj-drink-future-05",
+        "conj-drink-future-06",
+        "conj-drink-future-07",
+        "conj-drink-future-08"
+      ]
+    },
+    {
+      "id": "speak",
+      "infinitive": "לדבר",
+      "tts": "לְדַבֵּר",
+      "en": "to speak",
+      "binyan": "pi'el",
+      "topic": "verb-speak",
+      "tenses": [
+        {
+          "tense": "past",
+          "en": "Past",
+          "he": "עבר",
+          "items": [
+            "conj-speak-past-01",
+            "conj-speak-past-02",
+            "conj-speak-past-03",
+            "conj-speak-past-04",
+            "conj-speak-past-05",
+            "conj-speak-past-06",
+            "conj-speak-past-07",
+            "conj-speak-past-08"
+          ]
+        },
+        {
+          "tense": "present",
+          "en": "Present",
+          "he": "הווה",
+          "items": [
+            "conj-speak-present-01",
+            "conj-speak-present-02",
+            "conj-speak-present-03",
+            "conj-speak-present-04"
+          ]
+        },
+        {
+          "tense": "future",
+          "en": "Future",
+          "he": "עתיד",
+          "items": [
+            "conj-speak-future-01",
+            "conj-speak-future-02",
+            "conj-speak-future-03",
+            "conj-speak-future-04",
+            "conj-speak-future-05",
+            "conj-speak-future-06",
+            "conj-speak-future-07",
+            "conj-speak-future-08"
+          ]
+        }
+      ],
+      "items": [
+        "conj-speak-past-01",
+        "conj-speak-past-02",
+        "conj-speak-past-03",
+        "conj-speak-past-04",
+        "conj-speak-past-05",
+        "conj-speak-past-06",
+        "conj-speak-past-07",
+        "conj-speak-past-08",
+        "conj-speak-present-01",
+        "conj-speak-present-02",
+        "conj-speak-present-03",
+        "conj-speak-present-04",
+        "conj-speak-future-01",
+        "conj-speak-future-02",
+        "conj-speak-future-03",
+        "conj-speak-future-04",
+        "conj-speak-future-05",
+        "conj-speak-future-06",
+        "conj-speak-future-07",
+        "conj-speak-future-08"
       ]
     }
   ],
